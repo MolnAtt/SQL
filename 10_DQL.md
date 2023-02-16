@@ -218,7 +218,6 @@ Közismertebb predikátumok:
 | ... > ...  |   nagyobb            | egyuttlakok > 3  |
 | ... <= ... | kisebb vagy egyenlő  | egyuttlakok <= 3 |
 | ... >= ... | nagyobb vagy egyenlő | egyuttlakok >= 3 |
-| ... <= ... | kisebb vagy egyenlő  | egyuttlakok <= 3 |
 | ... BETWEEN ... AND ... | két érték között (zárt intervallum) | egyuttlakok BETWEEN 1 and 3 |
 
 
@@ -288,7 +287,7 @@ A csoportosítás szempontját egy ún. *szelektorral* szokás megadni. A szelek
 
 A következő ábrán az látható, hogy J halmaz minden rekordjához hozzárendeljük a testvérek számát: 
 
-*(A rekordok esetében most csak a nevet szerepeltettük, de azok rendezett $n$-esek! A szelektor pedig egy projekció, amely minden rekordhoz hozzárendeli a testvér mezőjét! A csoportok tehát nem mások, mint a szelektor szerinti inverz képek!)*
+*(A rekordok esetében most csak a nevet szerepeltettük, de azok rendezett n-esek! A szelektor pedig egy projekció, amely minden rekordhoz hozzárendeli a testvér mezőjét! A csoportok tehát nem mások, mint a szelektor szerinti inverz képek!)*
 
 ![szelektor és csoportosítás](group_by.jpg)
 
@@ -387,6 +386,10 @@ WHERE ... IN (SELECT ...);
 ```
 > UNDER CONSTRUCTION
 #### ``UNION``
+
+$$ A\cup B \overset{\mathrm{def}}\iff \{ x: x\in A \lor x\in B \} $$
+
+*(naiv definíció)*
 ```sql
 SELECT ...
 
@@ -394,8 +397,11 @@ UNION
 
 SELECT ...;
 ```
-> UNDER CONSTRUCTION
+
 #### Metszet
+
+$$ A\cap B \overset{\mathrm{def}}\iff \{ x\in A :  x\in B \} $$
+
 ```sql
 SELECT X
 FROM A
@@ -403,6 +409,10 @@ WHERE X IN B;
 ```
 > UNDER CONSTRUCTION
 #### Különbség
+
+$$ A\setminus B \overset{\mathrm{def}}\iff \{ x\in A :  x\notin B \} $$
+
+
 ```sql
 SELECT X
 FROM A
