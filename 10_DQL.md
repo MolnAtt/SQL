@@ -370,17 +370,44 @@ Tehát a kettő közötti különbség:
 > UNDER CONSTRUCTION
 
 
-## Lekérdezések operációi és kompozíciói
-> UNDER CONSTRUCTION
+## Lekérdezések beágyazásai
+FROM után mindig be lehet ágyazni. 
+```sql
+SELECT ...
+FROM (SELECT ...);
+```
+> **VIGYÁZAT**: pontosvessző csak a legvégén legyen, a beágyazott lekérdezésben ne!
+
 ### Halmazműveletek
-> UNDER CONSTRUCTION
-#### ``IN``
+#### ``IN``: beágyazás szűrésbe
+```sql
+SELECT ...
+FROM ...
+WHERE ... IN (SELECT ...);
+```
 > UNDER CONSTRUCTION
 #### ``UNION``
+```sql
+SELECT ...
+
+UNION
+
+SELECT ...;
+```
 > UNDER CONSTRUCTION
 #### Metszet
+```sql
+SELECT X
+FROM A
+WHERE X IN B;
+```
 > UNDER CONSTRUCTION
 #### Különbség
+```sql
+SELECT X
+FROM A
+WHERE X NOT IN B;
+```
 > UNDER CONSTRUCTION
 
 ## Többtáblás lekérdezések
