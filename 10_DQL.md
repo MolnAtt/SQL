@@ -5,7 +5,7 @@
     - [J - példa-adatbázis szerkezete](#j-példa-adatbázis-szerkezete)
     - [SELECT és FROM](#select-és-from)
         - [FROM](#from)
-        - [SELECT *](#select)
+        - [SELECT *](#select-*)
         - [SELECT mezo](#select-mezo)
         - [SELECT mezo1, mezo2](#select-mezo1-mezo2)
         - [SELECT f(mezo)](#select-fmezo)
@@ -14,6 +14,8 @@
         - [Rekordok szűrése](#rekordok-szűrése-select-tel)
             - [SELECT TOP](#select-top---select-limit)
             - [SELECT DISTINCT](#select-distinct)
+    - [WHERE](#where)
+        - [WHERE ... LIKE ...](#where---like)
 - [Többtáblás lekérdezések](#többtáblás-lekérdezések)
 
 ## Alapok
@@ -191,12 +193,28 @@ A rekordokat szűrni nem csak a lista elejének kiemelésével vagy az ismétlő
 
 **FONTOS**: A WHERE mindig a FROM után helyezkedik el és csak egyetlen WHERE tag lehet egy lekérdezésben!
 
+#### Predikátumok
+Közismertebb predikátumok:
+| Szimbólum  |   Leírás             |        Példa     |
+|------------|----------------------|------------------|
+| ... = ...  | azonosság            | nyelv2 = "orosz" |
+| ... <> ... | különbözés           | nyelv2 <> "angol"|
+| ... < ...  |   kisebb             | egyuttlakok < 3  |
+| ... > ...  |   nagyobb            | egyuttlakok > 3  |
+| ... <= ... | kisebb vagy egyenlő  | egyuttlakok <= 3 |
+| ... >= ... | nagyobb vagy egyenlő | egyuttlakok >= 3 |
+| ... <= ... | kisebb vagy egyenlő  | egyuttlakok <= 3 |
+| ... BETWEEN ... AND ... | két érték között (zárt intervallum) | egyuttlakok BETWEEN 1 and 3 |
+
+
+
+
 például a következő feltétel kiszűri a német nyelvet tanulókat:
 
 ```sql
 SELECT *
 FROM J
-WHERE nyelv2 == "német";
+WHERE nyelv2 = "német";
 ```
 
 Komplex szűrési feltételek is kifejezhetők a szokásos logikai műveletekkel (NOT, AND, OR). A következő példa azon ``német``-et vagy ``olasz``-t tanuló diákok rekordjait szűri ki, akik nem az ``alfa`` matematikai-informatikai csoportban vannak.
@@ -204,7 +222,7 @@ Komplex szűrési feltételek is kifejezhetők a szokásos logikai műveletekkel
 ```sql
 SELECT *
 FROM J
-WHERE (nyelv2 == "német" OR nyelv2="olasz") AND NOT matinfo="alfa";
+WHERE (nyelv2 = "német" OR nyelv2 = "olasz") AND NOT matinfo = "alfa";
 ```
 
 #### WHERE ... LIKE ...
