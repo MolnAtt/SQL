@@ -5,7 +5,7 @@
     - [J - példa-adatbázis szerkezete](#j-példa-adatbázis-szerkezete)
     - [SELECT és FROM](#select-és-from)
         - [FROM](#from)
-        - [SELECT *](#select-*)
+        - [SELECT](#select)
         - [SELECT mezo](#select-mezo)
         - [SELECT mezo1, mezo2](#select-mezo1-mezo2)
         - [SELECT f(mezo)](#select-fmezo)
@@ -48,20 +48,22 @@ Az SQL-interpreterek nem érzékenyek arra, hogy ezek a szavak **nagybetűvel le
 A következőkben feltesszük, hogy az olvasó már képes táblát létrehozni (DDL), és rendelkezésre áll a 3000J feladat adatbázisa. Ennek az adatbáziskezelésre átalakított nyers .csv (comma separated value) fájlja itt található meg: [J.csv](J.csv).
 
 A továbbiakban feltesszük, hogy a tábla neve ``J``, a mezők nevei a fájl első sorában lévő értékeknek felelnek meg, azaz: 
-- ``id``: szám, ez az elsődleges kulcs.
-- ``nev``: szöveg.
-- ``matinfo``: szöveg.
-- ``angol``: szöveg.
-- ``nyelv2``: szöveg.
-- ``nem``: logikai.
-- ``egyuttlakok``: szám.
-- ``testverek``: szám.
-- ``szulido``: dátum.
+- ``id`` (szám): A törzslapszám. *Ez az elsődleges kulcs.*
+- ``nev`` (szöveg): A tanuló neve.
+- ``matinfo`` (szöveg): A matematika és informatika szerinti csoportbontás.
+- ``angol`` (szöveg): Az angolcsoport
+- ``nyelv2`` (szöveg): A második nyelv szerinti csoport.
+- ``nem`` (logikai): Biológiai nem (a -1 a fiú és a 0 a lány).
+- ``egyuttlakok`` (szám): Az együttlakók száma. 
+- ``testverek`` (szám): A testvérek száma
+- ``szulido`` (dátum): A tanuló születési ideje.
+- ``huzottid`` (szám): A karácsonyi húzás során húzott tanuló törzslapszáma. *(Idegen kulcs.)*
+
 
 ### ``SELECT`` és ``FROM``
 #### ``FROM``
 A következőkben végig egytáblás lekérdésekkel, a ``J`` táblával dolgozunk, így a legtöbb lekérdezésünk mindig ezt fogja tartalmazni: ``FROM J``. A ``FROM`` klauzulának főleg a többtáblás lekérdezések esetében és a lekérdezések egymásba ágyazása során van szerepe, így ezt most egyelőre nem tárgyaljuk mélyebben. 
-#### ``SELECT *``
+#### ``SELECT``
 A legalapvetőbb lekérdezés, ami minden más lekérdezés kiindulópontjaként is szolgál, a következő: 
 ```sql
 SELECT *
@@ -146,7 +148,9 @@ Itt ``COUNT(id)``-et is írhattunk volna, ennek nincs jelentősége.
 
 - ``AVG``: Az osztályhoz hozzárendeljük az átlagos testvérszámot. 
 Azaz a J tábla $N$ db rekordjához hozzárendelünk 1 db természetes számot. Tehát itt:
+
 $$ \mathsf{AVG}:H^N\to \mathbb R $$
+
 ```sql
 SELECT AVG(testverszam)
 FROM J;
@@ -155,14 +159,18 @@ Itt most fontos, hogy nem írhatunk csillagot az ``AVG``-be. Az előző példáb
 
 - ``MAX``:Az osztályhoz hozzárendeljük a legidősebb tanuló korát.
 Azaz a J tábla $N$ db rekordjához hozzárendelünk 1 db dátumot. Tehát itt:
+
 $$ \mathsf{MAX}:H^N\to \mathbb{D} $$
+
 ```sql
 SELECT MAX(szulido)
 FROM J;
 ```
 - ``SUM``: Az osztályhoz hozzárendeljük az együttlakók számának az összegét: 
 Azaz a J tábla $N$ db rekordjához hozzárendelünk 1 db természetes számot. Tehát itt:
+
 $$ \mathsf{SUM}:H^N\to \mathbb{N} $$
+
 ```sql
 SELECT SUM(egyuttlakok)
 FROM J;
@@ -250,4 +258,6 @@ A ``?`` jel azt jelenti, hogy az adott pozícióban bármilyen karakter előford
 |#| Egyetlen számjel. De csak számjel.| "2#5"-re illeszkedik bármelyik 2-vel kezdődő és 5-re végző háromjegyű szám
 
 Megjegyzés: SQLServer-en, OLEDB-n stb. ezek a jelek mások!
+
+
 
