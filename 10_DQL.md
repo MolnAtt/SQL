@@ -195,17 +195,16 @@ A rekordokat szűrni nem csak a lista elejének kiemelésével vagy az ismétlő
 
 #### Predikátumok
 Közismertebb predikátumok:
-| Szimbólum  |   Leírás             |        Példa        |
-|------------|----------------------|---------------------|
-| ... = ...  | azonosság            | nyelv2 = "orosz"    |
-| ... <> ... | különbözés           | nyelv2 <> = "angol" |
-| ... < ...  |   kisebb             | egyuttlakok < 3     |
-| ... > ...  |   nagyobb            | egyuttlakok > 3     |
-| ... <= ... | kisebb vagy egyenlő  | egyuttlakok <= 3    |
-| ... >= ... | nagyobb vagy egyenlő | egyuttlakok >= 3    |
-| ... <= ... | kisebb vagy egyenlő  | egyuttlakok <= 3    |
+| Szimbólum  |   Leírás             |        Példa     |
+|------------|----------------------|------------------|
+| ... = ...  | azonosság            | nyelv2 = "orosz" |
+| ... <> ... | különbözés           | nyelv2 <> "angol"|
+| ... < ...  |   kisebb             | egyuttlakok < 3  |
+| ... > ...  |   nagyobb            | egyuttlakok > 3  |
+| ... <= ... | kisebb vagy egyenlő  | egyuttlakok <= 3 |
+| ... >= ... | nagyobb vagy egyenlő | egyuttlakok >= 3 |
+| ... <= ... | kisebb vagy egyenlő  | egyuttlakok <= 3 |
 | ... BETWEEN ... AND ... | két érték között (zárt intervallum) | egyuttlakok BETWEEN 1 and 3 |
-|------------|----------------------|---------------------|
 
 
 
