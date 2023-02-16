@@ -231,4 +231,5 @@ A ``?`` jel azt jelenti, hogy az adott pozícióban bármilyen karakter előford
 |[...-...] | Bármilyen karakter a megadott intervallumban| "[a-g]"-re illeszkedik "hat", "hit" de "hot" nem
 |#| Egyetlen számjel. De csak számjel.| "2#5"-re illeszkedik bármelyik 2-vel kezdődő és 5-re végző háromjegyű szám
 
-Megjegyzés: SQLServer-en, OLEDB-n ezek a jelek mások!
+Megjegyzés: SQLServer-en, OLEDB-n stb. ezek a jelek mások!
+
