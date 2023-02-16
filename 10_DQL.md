@@ -16,6 +16,13 @@
             - [SELECT DISTINCT](#select-distinct)
     - [WHERE](#where)
         - [WHERE ... LIKE ...](#where---like)
+    - [GROUP BY](#group-by)
+        - [Matek](#matek)
+        - [SELECT * ... GROUP BY ...; sosem működik](#select---group-by--sosem-működik)
+        - [SELECT X ... GROUP BY X; mindig működik](#select-x--group-by-x-mindig-működik)
+        - [GROUP BY + Összesítés](#group-by--összesítés)
+        - [GROUP BY mezo1, mezo2](#group-by-mezo1-mezo2)
+    - [HAVING](#having)
 - [Többtáblás lekérdezések](#többtáblás-lekérdezések)
 
 ## Alapok
@@ -217,7 +224,7 @@ Közismertebb predikátumok:
 
 
 
-például a következő feltétel kiszűri a német nyelvet tanulókat:
+például a következő feltétel kiválogatja a német nyelvet tanulókat:
 
 ```sql
 SELECT *
@@ -259,5 +266,140 @@ A ``?`` jel azt jelenti, hogy az adott pozícióban bármilyen karakter előford
 
 Megjegyzés: SQLServer-en, OLEDB-n stb. ezek a jelek mások!
 
+### ``GROUP BY``
+
+#### Matek
+
+A csoportosítás programozási tétel során egy csoportosítási szempont alapján a $H$ alaphalmazt
+- kölcsönösen kizáró *(mutually exlusive)* és
+- együttesen kimerítő *(collectively exhaustive)*
+halmazokra bontjuk. 
+
+Ezt a matematikában egyébként *partíciónak* hívják. 
+
+**Definíció** *(Partíció.)* Egy $P$ halmazt a $H$ partíciójának nevezünk, amennyiben 
+- $P$ minden eleme $H$-nak részhalmaza.
+- bármely két halmaz metszete üres (azaz diszjunktak)
+- az összes halmaz uniója visszaadja az eredeti halmazt.
+
+$$\mathrm{particio}(P,H) \overset{\mathrm{def}}\iff P\subseteq \mathcal P(H) \land (\forall A,B\in P) (A\cap B = \varnothing) \land \bigcup P = H$$
+
+A csoportosítás szempontját egy ún. *szelektorral* szokás megadni. A szelektor egy hagyományos, a H-n értelmezett függvény. Az alapján kerülnek azonos csoportba elemek, hogy a szelektor hozzájuk ugyanazt az értéket rendeli!
+
+A következő ábrán az látható, hogy J halmaz minden rekordjához hozzárendeljük a testvérek számát: 
+
+*(A rekordok esetében most csak a nevet szerepeltettük, de azok rendezett $n$-esek! A szelektor pedig egy projekció, amely minden rekordhoz hozzárendeli a testvér mezőjét! A csoportok tehát nem mások, mint a szelektor szerinti inverz képek!)*
+
+![szelektor és csoportosítás](group_by.jpg)
+
+#### ``SELECT * ... GROUP BY ...;`` sosem működik!
+Nagyon fontos, hogy a táblák táblázatokként való megjelenítésekor a csoportosítás eredményével nem lehet mit kezdezni, ugyanis ezek halmazok, nem pedig rekordok!
+
+Ez az SQL-lekérdezés tehát **NEM FOG MŰKÖDNI**, mert a csoportosítás bár elkészülhetne, de nem tudja megjeleníteni:
+
+```sql
+SELECT ???
+FROM J
+GROUP BY testverek;
+```
+
+Ezek a halmazok csak akkor férnek be egyetlen rekordba, ha valamilyen összesítő függvénnyel tömörítjük őket.
+
+#### ``SELECT X ... GROUP BY X;`` mindig működik!
+A következő megoldás mindig működik: A csoportokat magukat nem, de a csoportok "címkéjét", azaz az azonos csoportba való tartozásért felelős szelektorértéket megmutatja. 
+
+```sql
+SELECT testverek
+FROM J
+GROUP BY testverek;
+```
+
+**Megjegyzés.** Vegyük észre, hogy ha onnan nézzük, hogy ez a 
+```sql
+SELECT testverek
+FROM J;
+```
+lekérdezés kibővítése, akkor a ``GROUP BY`` innen nézve csak ugyanazt csinálja, mint a ``DISTINCT``: eltünteti az ismétlődéseket. Van, aki ezt használja az ismétlődések eltüntetésére is. 
+
+#### ``GROUP BY`` + Összesítés
+
+A következő lekérdezés már összesítő függvénnyel tömörít: megmondja, hogy melyik testvérszámmal hány tanuló bír:
+
+```sql
+SELECT testverek, Count(*)
+FROM J
+GROUP BY testverek;
+```
+Vegyük tehát észre, hogy csoportosító lekérdezéseknél a SELECT-ben lévő összesítő függvények a csoportokra hatnak, nem pedig az eredeti halmazra!
+
+**JÓ TANÁCS**. A csoportosítási lépés egy olyan lépés, ahol a *-ot már nem lehet a SELECT után már nincs értelme szerepeltetni, ezekre az interpreterek hibaüzenetet fognak adni. Ilyenkor a csoportosítás szempontját (a szelektort) érdemes szerepeltetni helyettük, hogy lefusson a kód.
+
+### GROUP BY mezo1, mezo2
+> UNDER CONSTRUCTION
+
+> Ide kéne egy jó excalidrawos kép arról, hogy két partíció hogyan generál egy harmadikat!
+
+### ``HAVING``
+
+A ``WHERE`` mindössze csak egyszer szerepelhet egy lekérdezésben. Ha ``GROUP BY``-jal együtt szerepel egy lekérdezésben, akkor az azt jelenti, hogy a **csoportosítás előtt történik** az elemek kiválogatása. 
+
+Ha valaki mégis a csoportosítás után szeretne szűrni (pl. csak a legalább ötfős csoportokat szeretné megtartani), akkor erre a ``WHERE`` nem lesz alkalmas. Erre találták ki a ``HAVING``-et.
+
+A következő lekérdezés kiválogatja a legalább 5 fős csoportokat:
+
+```sql
+SELECT testverszam, COUNT(*)
+FROM J
+GROUP BY testverszam
+HAVING 5 <= COUNT(*);
+```
+
+Minden egyébben a HAVING ugyanúgy működik, mint a WHERE. 
+
+Tehát a kettő közötti különbség:
+
+- A ``WHERE`` a csoportosítás **előtt** szűr.
+- A ``HAVING`` a csoportosítás **után** szűr.
 
 
+### ORDER BY
+> UNDER CONSTRUCTION
+#### ORDER BY ... ASC
+> UNDER CONSTRUCTION
+#### ORDER BY ... DESC
+> UNDER CONSTRUCTION
+
+
+## Lekérdezések operációi és kompozíciói
+> UNDER CONSTRUCTION
+### Halmazműveletek
+> UNDER CONSTRUCTION
+#### ``IN``
+> UNDER CONSTRUCTION
+#### ``UNION``
+> UNDER CONSTRUCTION
+#### Metszet
+> UNDER CONSTRUCTION
+#### Különbség
+> UNDER CONSTRUCTION
+
+## Többtáblás lekérdezések
+> UNDER CONSTRUCTION
+### Direkt szorzat
+> UNDER CONSTRUCTION
+### Relációk és definíciók
+> UNDER CONSTRUCTION
+
+A karácsonyi húzás során...
+1. ... van-e bárki, aki saját magát húzta?
+2. ... van-e két olyan tanuló, akik egymást húzták?
+3. ... van-e három olyan tanuló, akik körbe húzták egymást?
+4. ... igaz-e, hogy helyes *(bijektív)* a húzás, azaz 
+    1. Mindenkit húzott valaki? *(szürjektív)*
+    2. Nincs két olyan ember, aki ugyanazt húzta? *(injektív)*
+### Táblák összekötése 
+> UNDER CONSTRUCTION
+#### direkt szorzat szűrésével
+> UNDER CONSTRUCTION
+#### ``.. INNER JOIN .. ON .. ``
+> UNDER CONSTRUCTION
