@@ -14,4 +14,4 @@ A továbbiakban feltesszük, hogy a tábla neve ``J``, a mezők nevei a fájl el
 - ``huzottid`` (szám): A karácsonyi húzás során húzott tanuló törzslapszáma. *(Idegen kulcs.)*
 
 ### Tábla importálása: J
-- [Tábla importálása](import/)
+- [Tábla importálása](../import/)
