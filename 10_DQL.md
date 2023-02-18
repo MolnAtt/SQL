@@ -51,6 +51,14 @@ Az SQL-interpreterek nem érzékenyek arra, hogy ezek a szavak **nagybetűvel le
 
 
 ## Egytáblás lekérdezések
+### Tábla importálása: J
+A nyers adatok általában txt, tsv vagy csv fájlokban állnak rendelkezésre. Ezeket a különböző adatbáziskezelőkben importálni kell. Accessben egy varázslót kell végigkattintgatni, a többi, szerver-kliens kapcsolatban gondolkodó adatbáziskezelők esetében táblákat és rekordokat létrehozó utasításokban (DDL és DML nyelven) kell gondolkodni.
+#### MS Access
+> UNDER CONSTRUCTION
+#### postgreSQL
+> UNDER CONSTRUCTION
+#### MySQL
+> UNDER CONSTRUCTION
 ### J: példa-adatbázis szerkezete
 A következőkben feltesszük, hogy az olvasó már képes táblát létrehozni (DDL), és rendelkezésre áll a 3000J feladat adatbázisa. Ennek az adatbáziskezelésre átalakított nyers .csv (comma separated value) fájlja itt található meg: [J.csv](J.csv).
 
@@ -362,12 +370,49 @@ Tehát a kettő közötti különbség:
 
 
 ### ORDER BY
-> UNDER CONSTRUCTION
-#### ORDER BY ... ASC
-> UNDER CONSTRUCTION
-#### ORDER BY ... DESC
-> UNDER CONSTRUCTION
 
+Az ``ORDER BY`` arra szolgál, hogy sorbarendezze a listát egy adott szempont szerint. A szempontot megintcsak egy szelektorral, azaz egy rekordokon értelmezett függvénnyel biztosítjuk.
+
+Elsősorban projekciófüggvényeket használunk, azaz pl. a következő lekérdezés az osztályt születési idejük szerint rakja sorba:
+
+```sql
+SELECT nev, szulido
+FROM J
+ORDER BY szulido;
+```
+
+használhatunk azonban egyéb szempontokat is, például ha egy olyan listát akarunk készíteni, ahol a diákok aszerint vannak sorba rakva, hogy a születésnapjaik hogyan követik egymást január 1-jétől kezdve, akkor ezt így tudjuk lekérdezni:
+
+```sql
+SELECT nev, szulido
+FROM J
+ORDER BY MONTH(szulido), DAY(szulido);
+```
+
+*(Ez más eredményt ad, mint az előző! Például egy 2005.12.31. később lesz, mint 2006.01.01, pedig korábbi a dátum!)*
+
+Ez utóbbi egyben példa arra is, hogy hogyan lehet elsődleges, másodlagos stb. szempontok alapján is sorbarendezni: vesszővel kell elválasztani a szempontokat. 
+
+
+
+#### ORDER BY ... ASC/DESC
+A sorbarendezés alapértelmezés szerint mindig növekvő, (szövegek esetén hagyományos ábécé-sorrend).
+
+Ha mégis fordított sorrendben szeretnénk rendezni, akkor azt a ``DESC`` kiegészítéssel lehet elérni:
+
+```sql
+SELECT nev, szulido
+FROM J
+ORDER BY szulido DESC;
+```
+
+Létezik az ``ASC`` kiegészítés is, ami a növekvő sorrendet jelenti. Ezt akkor használjuk, amikor egymást követő rendezési szempontok során akarjuk explicitté tenni, hogy melyik szempont növekvő, csökkenő...
+
+```sql
+SELECT nev, egyuttlakok, testverszam
+FROM J
+ORDER BY egyuttlakok DESC, szulido ASC, nev ASC;
+```
 
 ## Lekérdezések beágyazásai
 FROM után mindig be lehet ágyazni. 
@@ -387,7 +432,7 @@ WHERE ... IN (SELECT ...);
 > UNDER CONSTRUCTION
 #### ``UNION``
 
-$$ A\cup B \overset{\mathrm{def}}\iff \{ x: x\in A \lor x\in B \} $$
+$$ A\cup B \overset{\mathrm{def}}{\iff} \{ x: x\in A \lor x\in B \} $$
 
 *(naiv definíció)*
 ```sql
@@ -400,7 +445,7 @@ SELECT ...;
 
 #### Metszet
 
-$$ A\cap B \overset{\mathrm{def}}\iff \{ x\in A :  x\in B \} $$
+$$ A\cap B \overset{\mathrm{def}}{\iff} \{ x\in A :  x\in B \} $$
 
 ```sql
 SELECT X
@@ -410,7 +455,7 @@ WHERE X IN B;
 > UNDER CONSTRUCTION
 #### Különbség
 
-$$ A\setminus B \overset{\mathrm{def}}\iff \{ x\in A :  x\notin B \} $$
+$$ A\setminus B \overset{\mathrm{def}}{\iff} \{ x\in A :  x\notin B \} $$
 
 
 ```sql
