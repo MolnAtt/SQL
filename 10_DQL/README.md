@@ -1,7 +1,7 @@
 # Tartalomjegyzék
 - [Alapok](/10_DQL/0_Alapok/)
 - [Egytáblás lekérdezések](/10_DQL/1_Egytablas/)
-    - [Egytáblás példaadatbázis: A 3000.J osztály. ](/3000J/)
+    - [Egytáblás példaadatbázis: A 3000.J osztály. ](../feladatsorok/3000J/)
     - [SELECT](/10_DQL/1_Egytablas/01_SELECT/)
     - [FROM](/10_DQL/1_Egytablas/02_FROM/)
     - [WHERE](/10_DQL/1_Egytablas/03_WHERE/)
