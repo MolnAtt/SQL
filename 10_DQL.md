@@ -26,7 +26,7 @@
 - [Többtáblás lekérdezések](#többtáblás-lekérdezések)
 
 ## Alapok
-Egy **elemi lekérdezés** minimális szerkezete a következő:
+Egy táblához kapcsolódó **elemi lekérdezés** minimális szerkezete a következő:
 ```sql
 SELECT ...
 FROM ... ;
@@ -61,7 +61,7 @@ A következőkben a példaadatbázisunk a régi 3000J feladatsor kissé felfejle
 
 ### ``SELECT`` és ``FROM``
 #### ``FROM``
-A következőkben végig egytáblás lekérdésekkel, a ``J`` táblával dolgozunk, így a legtöbb lekérdezésünk mindig ezt fogja tartalmazni: ``FROM J``. A ``FROM`` klauzulának főleg a többtáblás lekérdezések esetében és a lekérdezések egymásba ágyazása során van szerepe, így ezt most egyelőre nem tárgyaljuk mélyebben. 
+A következőkben végig egytáblás lekérdésekkel, a ``J`` táblával dolgozunk, így a legtöbb lekérdezésünk mindig ezt fogja tartalmazni: ``FROM J``. A ``FROM`` klauzulának főleg a többtáblás lekérdezések esetében és a [lekérdezések egymásba ágyazása](#lekérdezések-beágyazásai) során van szerepe, így ezt most egyelőre nem tárgyaljuk mélyebben. 
 #### ``SELECT``
 A legalapvetőbb lekérdezés, ami minden más lekérdezés kiindulópontjaként is szolgál, a következő: 
 ```sql
@@ -325,10 +325,29 @@ Vegyük tehát észre, hogy csoportosító lekérdezéseknél a SELECT-ben lév�
 
 **JÓ TANÁCS**. A csoportosítási lépés egy olyan lépés, ahol a *-ot már nem lehet a SELECT után már nincs értelme szerepeltetni, ezekre az interpreterek hibaüzenetet fognak adni. Ilyenkor a csoportosítás szempontját (a szelektort) érdemes szerepeltetni helyettük, hogy lefusson a kód.
 
-### GROUP BY mezo1, mezo2
-> UNDER CONSTRUCTION
+#### GROUP BY mezo1, mezo2
+Két csoportosítási szemponttal is lehet csoportosítani. 
+Lehetséges több szempont alapján is csoportosítani. 
+Például a következő csoportosítás megmondja, hogy melyik angolcsoportba hány fiú és hány lány jár:
+```sql
+SELECT angol, nem, COUNT(*)
+FROM J
+GROUP BY angol, nem;
+```
 
-> Ide kéne egy jó excalidrawos kép arról, hogy két partíció hogyan generál egy harmadikat!
+##### Matek
+Ilyenkor adott két $f_1$ és $f_2$ szelektor, és ebből készít egy $F$ szelektorfüggvényt, ami minden $x$ rekordhoz immár egy rendezett párt rendel:
+
+$$F(x) = (f_1(x),f_2(x)).$$ 
+ 
+Ez alapján azon elemek tartoznak majd ugyanabba a halmazba, amelyekhez ugyanaz a rendezett pár van rendelve.
+
+Rajzban elég beszédesen ábrázolható a szituáció: 
+
+![Csoportosítás több szempont alapján](group_by_2.jpg)
+
+#### GROUP BY [SZÁM]
+Lehetséges a csoportosítási szempontot számmal is megadni. Ez ilyenkor azt jelenti, hogy a Select után felsorolt mezők/terminusok közül hanyadikat vegye a csoportosítási szempontnak. Ez akkor hasznos, amikor komplex függvények ezek a terminusok és nem akarunk sokat írni. Érettségik megoldókulcsaiban lehet gyakran ilyenekkel találkozni. 
 
 ### ``HAVING``
 
@@ -398,27 +417,163 @@ FROM J
 ORDER BY egyuttlakok DESC, szulido ASC, nev ASC;
 ```
 
+#### Maximumkeresés sorbarendezéssel
+
+Habár nem hatékony, de egy kényelmes módja a sorbarendezés egy minimális tulajdonságú rekord megkeresésének:
+1. Rendezzük nagyság szerint sorba az osztályt
+2. Vegyük az első elemet. 
+
+Keressük a legidősebb tanulót:
+```sql
+SELECT TOP 1 *
+FROM J
+ORDER BY szulido
+```
+
+A feladat természetesen [sorbarendezés nélkül is megoldható](#beágyazás-értékek-helyére), de beágyazott lekérdezést kell használni hozzá.
+
 ## Lekérdezések beágyazásai
-FROM után mindig be lehet ágyazni. 
+### Beágyazás értékek helyére
+
+A ``WHERE`` klauzulában a szűrési feltételekben [eddig](#predikátumok) [mindig](#where--like) konstans értékek szerepeltek. Lehetséges azonban olyan értékeket is szerepeltetni, amelyek az adatbázis tartalmától függenek. A legtipikusabb példája ennek a maximumkeresés:
+
+Keressük a legidősebb tanuló **nevét**!
+
+A legidősebb tanuló születési ideje a következő:
+
+```sql
+SELECT MIN(szulido)
+FROM J;
+```
+
+Ha viszont e születési idővel rendelkező tanuló neve a kérdés, akkor elő kéne keríteni azt a (vagy legalábbis az első olyan) rekordot a táblázatban, ahol ez a születési idő szerepel, és az ő nevét kiírni.
+
+Ha ez a kor konstans lenne, ``#2005-11-17#``, akkor így lehetne megtalálni a gazdáját:
+
+```sql
+SELECT *
+FROM J
+WHERE szulido = #2005-11-17#;
+```
+
+Viszont ez az érték ugye most az adatbázis tartalmától függ. 
+A két lekérdezés komponálható:
+
+```sql
+SELECT *
+FROM J
+WHERE szulido = (SELECT MIN(szulido) FROM J);
+```
+
+Vagy máshogy tördelve: 
+
+```sql
+SELECT *
+FROM J
+WHERE szulido = (
+    SELECT MIN(szulido)
+    FROM J
+    );
+```
+
+**Ez tehát akkor és csak akkor működik, ha a beágyazott lekérdezés eredménye egyetlen rekord egyetlen oszlopa!** Próbáljuk ki bátran, mi van, ha több oszlopot ad vissza a beágyazott lekérdezés vagy nem csak egyetlen sorból áll. Nem fog működni.
+
+> Arra figyeljünk, hogy a beágyazott lekérdezést nem zárja pontosvessző!
+
+### Beágyazás táblák helyére
+Eddig a ``FROM`` után mindig a ``J`` tábla neve szerepelt. Valójában azonban lehet más lekérdezéseket is szerepeltetni itt. 
+
+Mindössze annyi a teendő, hogy a tábla helyébe a komplett lekérdezést kell írni!
+
 ```sql
 SELECT ...
 FROM (SELECT ...);
 ```
-> **VIGYÁZAT**: pontosvessző csak a legvégén legyen, a beágyazott lekérdezésben ne!
 
+Van, amikor egyszerű kérdéseknél is elkerülhetetlenek ezek. 
+
+### "Hányféle"-feladatok
+Például: **Hányféle** második nyelvet lehet tanulni?
+
+Nagyon fontos, hogy ez ROSSZ MEGOLDÁS:
+```sql
+SELECT DISTINCT Count(nyelv2)
+FROM J;
+```
+Ez ugyanis kiválogatja a különböző *rekordokat* (mivel nincs két azonos értékű rekord, nem dob ki semmit), majd utána számolja össze őket. Ezért lesz ennek az eredménye 36.
+A valós válasz azonban 2. 
+
+Tehát a probléma az, hogy a ``DISTINCT`` és a ``COUNT`` programozási tételek nem a számunkra szükséges sorrendben vannak alapértelmezés szerint egymás után komponálva. 
+
+Ezt úgy tudjuk megvalósítani, hogy részletesen végigírjuk a kompozíciót. Először kiválogatjuk a nyelveket, és az így keletkező (kétrekordos) táblán futtatjuk a megszámlálást:
+
+```sql
+SELECT COUNT(*)
+FROM (SELECT DISTINCT nyelv2 FROM J);
+```
+
+Vagy máshogy tördelve:
+
+```sql
+SELECT COUNT(*)
+FROM (
+    SELECT DISTINCT nyelv2 
+    FROM J
+    );
+```
+
+
+> **VIGYÁZAT**: Itt sem szerepel pontosvessző a beágyazott lekérdezésben, csak a teljes utasítás legvégén!
+
+A legtipikusabb példák a beágyazott lekérdezésekre a halmazműveletek sql-beli megvalósításai.
 ### Halmazműveletek
 #### ``IN``: beágyazás szűrésbe
+Az ``IN`` predikátum, amely azt vizsgálja meg, hogy egy rekord szerepel-e egy táblában/beágyazott lekérdezésben. 
+
 ```sql
 SELECT ...
 FROM ...
 WHERE ... IN (SELECT ...);
 ```
-> UNDER CONSTRUCTION
+#### Metszet
+Két halmaz metszete nem más, mint azon egyik halmazbeli halmaz elemei, amelyek a másik halmazban is fellelhetők:
+$$ A\cap B \overset{\mathrm{def}}{\iff} \{ x\in A :  x\in B \} $$
+Erre épül a két tábla metszetét alkotó lekérdezés sql-lekérdezése is:
+```sql
+SELECT X
+FROM A
+WHERE X IN B;
+```
+
+Megjegyezzük, hogy bizonyos adatbázis-kezelőkben (MS Access nem tartozik ide) van erre külön lekérdezéseken értelmezett művelet is: 
+
+```sql
+SELECT ...
+
+INTERSECT
+
+SELECT ...;
+```
+
+
+#### Különbség
+Két halmaz különbsége nem más, mint azon egyik halmazbeli halmaz elemei, amelyek a másik halmazban nem lelhetők fel:
+
+$$ A\setminus B \overset{\mathrm{def}}{\iff} \{ x\in A :  x\notin B \} $$
+Erre épül a két tábla metszetét alkotó lekérdezés sql-lekérdezése is:
+
+
+```sql
+SELECT X
+FROM A
+WHERE X NOT IN B;
+```
+
 #### ``UNION``
-
+Két halmaz uniója azon elemekből áll, amelyek egyikben vagy másikban fellelhetők:
 $$ A\cup B \overset{\mathrm{def}}{\iff} \{ x: x\in A \lor x\in B \} $$
+Erre nehéz SQL-lekérdezést írni, de van kifejezett egy lekérdezéseken értelmezett kétváltozós művelet, amely még az MS Access-ben is elérhető:
 
-*(naiv definíció)*
 ```sql
 SELECT ...
 
@@ -427,27 +582,6 @@ UNION
 SELECT ...;
 ```
 
-#### Metszet
-
-$$ A\cap B \overset{\mathrm{def}}{\iff} \{ x\in A :  x\in B \} $$
-
-```sql
-SELECT X
-FROM A
-WHERE X IN B;
-```
-> UNDER CONSTRUCTION
-#### Különbség
-
-$$ A\setminus B \overset{\mathrm{def}}{\iff} \{ x\in A :  x\notin B \} $$
-
-
-```sql
-SELECT X
-FROM A
-WHERE X NOT IN B;
-```
-> UNDER CONSTRUCTION
 
 ## Többtáblás lekérdezések
 > UNDER CONSTRUCTION
