@@ -1,0 +1,15 @@
+# Tartalomjegyzék
+- [Alapok](/0_Alapok/)
+- [Egytáblás lekérdezések](/1_Egytablas/)
+    - [Egytáblás példaadatbázis: A 3000.J osztály. ](../3000J/)
+    - [SELECT](/1_Egytablas/01_SELECT/)
+    - [FROM](/1_Egytablas/02_FROM/)
+    - [WHERE](/1_Egytablas/03_WHERE/)
+    - [GROUP BY](/1_Egytablas/04_GROUP_BY/)
+    - [HAVING](/1_Egytablas/05_HAVING/)
+    - [ORDER BY](/1_Egytablas/06_ORDER_BY/)
+    - [Beágyazások](/1_Egytablas/11_Beagyazas/)
+    - [Halmazműveletek](/1_Egytablas/12_Halmazmuveletek/)
+- [Többtáblás lekérdezések](/2_Tobbtablas/)
+- [Relációk és definíciók](/3_Relaciok_es_definiciok/)
+# DQL: Data Query Language
