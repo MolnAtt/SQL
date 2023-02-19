@@ -1,4 +1,4 @@
-# 3000J++: Osztály
+# 3000.J Osztály
 A .csv (comma separated value) fájlja itt található meg: [J.csv](J.csv).
 Az adatbázis első sora tartalmazza a mezőneveket.
 
@@ -17,20 +17,22 @@ A továbbiakban feltesszük, hogy a tábla neve ``J``, a mezők nevei a fájl el
 - ``huzottid`` (szám): A karácsonyi húzás során húzott tanuló törzslapszáma. *(Idegen kulcs.)*
 
 Amennyiben Access-ben dolgozol, minden kérdést a kérdés sorszámával elnevezett lekérdezésként ments.
-De ha Accessben dolgozol, ha nem, mindenképp létezzen egy .sql kiterjesztésű fájl, amiben mindegyik feladat sql lekérdezése megvan.
+De ha Accessben dolgozol, ha nem, mindenképp létezzen egyetlen,  ``j.sql`` nevű fájl, amiben mindegyik feladat sql lekérdezése megvan.
 Az lekérdezések előtt kommentben szerepeljen a a feladat sorszáma és a feladat szövege!
 
-Például:
+Például részlet a ``j.sql`` fájlból:
 
 ```sql
 -- 1. Hány diák tanul az osztályban?
 
-SELECT ...
+SELECT ...;
 
 -- 2. Hány lány tanul az osztályban?
 
 SELECT ...;
 ```
+
+# Feladatok
 
 1. Hány diák tanul az osztályban?
 2. Hány lány tanul az osztályban?

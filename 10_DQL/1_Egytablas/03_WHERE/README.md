@@ -19,6 +19,7 @@ Közismertebb predikátumok:
 | ... <= ... | kisebb vagy egyenlő  | ``egyuttlakok <= 3`` |
 | ... >= ... | nagyobb vagy egyenlő | ``egyuttlakok >= 3`` |
 | ... BETWEEN ... AND ... | két érték között (zárt intervallum) | ``egyuttlakok BETWEEN 1 and 3`` |
+| ... IN ... | eleme                | ``egyuttlakok IN (4,2)`` |
 
 
 
@@ -37,6 +38,18 @@ SELECT *
 FROM J
 WHERE (nyelv2 = "német" OR nyelv2 = "olasz") AND NOT matinfo = "alfa";
 ```
+
+Megjegyezzük, hogy azonos tulajdonságok esetében, amikor több azonosságállítás vagy-kapcsolatával állunk szemben, olvashatóbb IN-t használni:
+
+```sql
+SELECT *
+FROM J
+WHERE nyelv2 IN ("német","olasz") AND matinfo <> "alfa";
+```
+Illetve itt most a $\neq$ fogalomnak ezt a (modern nyelvekben) szokatlan jelölését alkalmaztuk.
+
+Illetve megjegyezzük még, hogy az IN használható lekérdezések esetében is, erről bővebben a [halmazműveleteknél](/10_DQL/1_Egytablas/12_Halmazmuveletek/) lehet olvasni. 
+
 ## Szűrés konstans dátummal
 Ritkán, de szükség van konstans dátumok megadására is. Ilyenkor MS Access-ben a ``#YYYY-MM-DD#`` formátumot kell követni. Például ha ki akarjuk szűrni a 2005. év szilveszterekor született tanulókat, akkor azt kétféleképpen is tehetjük:
 

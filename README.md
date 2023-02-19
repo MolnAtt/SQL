@@ -5,6 +5,7 @@
 2. [DQL: Data Query Language](/10_DQL/)
 3. DML: Data Manipulation Language
 4. DML: Data Control Language
+5. [feladatsorok](/feladatsorok/)
 
 # Bevezetés az SQL-nyelvbe
 Az **SQL** jelentése: **S**tructured **Q**uery **L**anguage. 
