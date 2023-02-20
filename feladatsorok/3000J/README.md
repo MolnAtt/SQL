@@ -50,7 +50,7 @@ SELECT ...;
 9. Viszonylag kevés azon családok száma, ahol az együttlakók száma és a testvérek száma között nem három a különbség. Adja meg a számukat!
 10. Hát Izsák hiányzott a legutóbbi angol órán, szeretné bepótolni a hiányzást. Adja meg azon tanulók nevét, akik vele azonos angol csoportba járnak.
 11. Melyik második nyelvet hányan tanulják az osztályban?
-12. Ki a legidősebb és a legfiatalabb diák, illetve mennyi köztük a korkülönbség? (Egy lekérdezéssel!)
+12. Hány éves a legidősebb és legfiatalabb diák, illetve mennyi köztük a korkülönbség? (Egy lekérdezéssel!)
 13. Hány különböző angolcsoport van?
 14. Melyik a leggyakrabban előforduló testvérszám?
 15. Add meg mindegyik második nyelvi csoportra, hogy az adott csoportban átlagosan hány testvérrel rendelkeznek a tanulók!
