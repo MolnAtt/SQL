@@ -1,11 +1,11 @@
 # Tartalomjegyzék
 ## Egytáblás lekérdezések
-- [3000J++](/3000J/)
-- [3000K+](/3000K/)
-- [3000L+](/3000L/)
-- [3000M+](/3000M/)
-- [3000N+](/3000N/)
-- [3000O+](/3000O/)
+- [3000J++](/feladatsorok/3000J/)
+- [3000K+](/feladatsorok/3000K/)
+- [3000L+](/feladatsorok/3000L/)
+- [3000M+](/feladatsorok/3000M/)
+- [3000N+](/feladatsorok/3000N/)
+- [3000O+](/feladatsorok/3000O/)
 ## Többtáblás lekérdezések
 - [OH: Középszintű és emelt szintű közismereti és ágazati érettségi feladatok](https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok)
 - Margitfalvi: [Középszintű](https://margitfalvi.hu/informatika-erettsegi/kozepszintu-adatbazis-feladatok/kozepszintu-adatbazis-feladatok.html) és [emelt szintű](https://margitfalvi.hu/informatika-erettsegi/emelt-szintu-adatbazis-kezelo-feladatok/emelt-szintu-adatbazis-kezelo-feladatok.html) közismereti érettségi feladatok
