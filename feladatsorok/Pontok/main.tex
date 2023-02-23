@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage{geometry}[margins=1cm]
+\begin{document}
+\thispagestyle{empty}
+
+\[\begin{tikzpicture}[
+        potty/.style={fill=black, inner sep=.5mm, circle},
+        scale=.015 
+        ]
+\draw (-500,-500) rectangle (500,500);
+%\draw[dashed] (-500,0) -- (500,0);
+%\draw[dashed] (0,-500) -- (0,500);
+\input{pontok.tex}
+\end{tikzpicture}\]
+
+
+\end{document}
