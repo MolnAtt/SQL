@@ -1,0 +1,38 @@
+azon	orszag	kontinens
+1	Ausztrália	Ausztrália és Óceánia
+2	Ausztria	Európa
+3	Belgium	Európa
+4	Chile	Dél-Amerika
+5	Csehszlovákia	Európa
+6	Dánia	Európa
+7	Dél-afrikai Köztársaság	Afrika
+8	Egyesült Államok	Észak- és Közép-Amerika
+9	Egyiptom	Ázsia
+10	Finnország	Európa
+11	Franciaország	Európa
+12	Görögország	Európa
+13	Guatemala	Észak- és Közép-Amerika
+14	India	Ázsia
+15	Írország	Európa
+16	Izland	Európa
+17	Izrael	Ázsia
+18	Japán	Ázsia
+19	Jugoszlávia	Európa
+20	Kanada	Észak- és Közép-Amerika
+21	Kína	Ázsia
+22	Kolumbia	Dél-Amerika
+23	Lengyelország	Európa
+24	Magyarország	Európa
+25	Mexikó	Észak- és Közép-Amerika
+26	Nagy-Britannia	Európa
+27	Németország	Európa
+28	Nigéria	Afrika
+29	Norvégia	Európa
+30	Olaszország	Európa
+31	Portugália	Európa
+32	Saint Lucia	Észak- és Közép-Amerika
+33	Spanyolország	Európa
+34	Svájc	Európa
+35	Svédország	Európa
+36	Törökország	Ázsia
+37	Trinidad és Tobago	Észak- és Közép-Amerika

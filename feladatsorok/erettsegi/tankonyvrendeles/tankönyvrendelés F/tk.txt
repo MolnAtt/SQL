@@ -1,0 +1,122 @@
+az	kiadoikod	cim	targy
+1	DW-695-2822-1	Kémia 9.	kémia
+2	SH-2309	Matematika 9.	matematika
+3	BB-0319	Négyjegyű függvénytáblázat	matematika
+4	NK-10127/I	Geometriai feladatgyűjtemény I.	matematika
+5	NK-13163/1	Történelem I.	történelem
+6	NK-13331/B	Matematika III. (emelt szinthez)	matematika
+7	SH-2312	Matematika 12.	matematika
+8	NK-13135/I	Matematika feladatgyűjtemény I.	matematika
+9	DR-0080	Középiskolai történelem atlasz	történelem
+10	NK-15133/1	Általános természetföldrajz tk.	földrajz
+11	NK-15133/1/M	Általános természetföldrajz mf.	földrajz
+12	DR-0003	Középiskolai földrajz atlasz	földrajz
+13	SH-2615	Fizika 9.	fizika
+14	NK-81304	Összefoglaló feladatgy. Fizika	fizika
+15	DF-0002	Középiskolai fizika példatár	fizika
+16	LN-0010/1	Színes irodalom 9.	irodalom
+17	LN-0011	Irodalmi szöveggyűjtemény 9.	irodalom
+18	NK-00931-1031/1	Magyar nyelv és kommunikáció 9-10.	magyar nyelvtan
+19	NK-00931/M/1	Magyar nyelv és kommunikáció mf. 9.	magyar nyelvtan
+20	LD-0001	A muzsika varázsa	ének-zene
+21	NK-15147	Műalkotások elemzése I.	művészetek
+22	SH-2151	Informatika középiskolásoknak	informatika
+23	SH-2851	Informatika középiskolásoknak mf.	informatika
+24	SH-2149	Informatika-számítástechnika tk. 9.	informatika
+25	SH-2849	Informatika-számítástechnika mf. 9.	informatika
+26	SH-3140	Általános informatika	informatika
+27	NK-16208/1	Biológia I.	biológia
+28	SH-2619	Fizika 10.	fizika
+29	SH-2623	Fizika 11.	fizika
+30	SH-2627	Fizika 11-12.	fizika
+31	SH-2827	Fizika 11-12.mf.	fizika
+32	NK-16308/1	Biológia II.	biológia
+33	NK-16408/1	Biológia III.	biológia
+34	SH-2310	Matematika 10.	matematika
+35	SH-2311	Matematika 11.	matematika
+36	BB-0320	Egységes érettségi fgy. matematika I.	matematika
+37	BB-0321	Egységes érettségi fgy. matematika II.	matematika
+38	NK-13135/II	Matematika feladatgyűjtemény II.	matematika
+39	NK-13204/3	Történelem II.	történelem
+40	DW-456-1015102	Történelem 10.	történelem
+41	NK-13304/3	Történelem III.	történelem
+42	NK-13384/2	Történelem IV.	történelem
+43	IP-0116/Sz	Bevezetés a filozófiába	filozófia
+44	SH-2150	Informatika 10.	informatika
+45	SH-2850	Informatika 10. munkafüzet	informatika
+46	NK-15135/1	Általános társadalomföldrajz	földrajz
+47	SH-2625	Földrajz 10.	földrajz
+48	LN-0020/1	Irodalom 10.	irodalom
+49	LN-0021	Irodalmi szöveggyűjtemény 10	irodalom
+50	LN-0030	Irodalom 11	irodalom
+51	LN-0031	Irodalmi szöveggyűjtemény 11	irodalom
+52	LN-0032	Költőink 11	irodalom
+53	LN-0040	Irodalom 12	irodalom
+54	LN-0041	Irodalmi szöveggyűjtemény 12	irodalom
+55	LN-0042	Költőink 12	irodalom
+56	NK-01031/M/1	Magyar nyelv és kommunikáció mf. 10.	magyar nyelvtan
+57	NK-01131/M/1	Magyar nyelv és kommunikáció mf. 11.	magyar nyelvtan
+58	NK-01131-1231/1	Magyar nyelv és kommunikáció 11-12.	magyar nyelvtan
+59	NK-81466	Egységes ér. fgy. Fizika 11.	fizika
+60	NK-81471	Egységes ér. fgy. Fizika 12.	fizika
+61	NK-13107	Kémia I.	kémia
+62	NK-16207	Kémia 10.	kémia
+63	NK-16207/M	Kémia 10. mf.	kémia
+64	NK-13107/K	Kísérletgyűjtemény (kémia)	kémia
+65	NK-13307	Kémia III.	kémia
+69	NK-15247	Műalkotások elemzése II.	művészetek
+70	DW-468-1115102	Történelem 11.	történelem
+71	DW-623-CA0035	Fizika - Optika, hőtan	fizika
+72	NK-01231/M/1	Magyar nyelv és kommunikáció mf. 12.	magyar nyelvtan
+73	NK-13431/B	Matematika IV.	matematika
+74	SZ-005	Analízis I.	matematika
+75	SZ-006	Analízis II.	matematika
+76	DW-202a-2788-8	Fgy. matemat.	matematika
+77	LO-0097	Mozgóképkultúra és médiaismeret	történelem
+78	DW-626-CA0046	Fizika - Elektromosság	fizika
+79	DW-620-CA0034	Fizika - Mechanika	fizika
+80	LO-0150	Irodalomkönyv 9	irodalom
+81	LO-0151	Szöveggyűjtemény 9	irodalom
+82	DW-2947-3	Matematika közép és emelt szinten	matematika
+83	BR-102201	A képi világ II.	művészetek
+84	LO-0146	Történelem III.	történelem
+85	LO-0147	Történelem IV.	történelem
+86	NK-14225	Történelem II.	történelem
+87	DW-1215102	Történelem IV.	történelem
+88	EJ-173000	Társadalomismeret	társadalomismeret
+89	BR-092201	A képi világ I.	művészetek
+90	NK-10127/II	Geometriai feladatgyűjtemény II.	matematika
+91	NK-81307	Összefoglaló fgy. matematika	matematika
+92	SH-2615/K	Fizika 9.	fizika
+93	BB-0216	Középiskolai fizika példatár	fizika
+94	NK-13401	Fizika IV.	fizika
+95	DW-629-CA-0048	Modern fizika	fizika
+96	NK-16308	Biológia II.	biológia
+97	IP-116/Sz	Bevezetés a filozófiába (szöveggy.)	filozófia
+98	NK-15135/1/M	Általános társadalomföldrajz mf.	földrajz
+99	DW-469-1215102	Történelem IV.	történelem
+100	DW-620-CA0034	Fizika - Mechanika	fizika
+101	NK-14125	Történelem 9.	történelem
+102	LO-0240	Kémia 9.	kémia
+103	LO-0240/M	Kémia 9. mf.	kémia
+104	LO-0152	Irodalomkönyv 10.	irodalom
+105	LO-0153	Szöveggyűjtemény 10.	irodalom
+106	NK-16125/I	Matematika gyakorló fgy. I.	matematika
+107	NK-16126/I	Matematika gyakorló fgy. II.	matematika
+108	NK-16127/I	Matematika gyakorló fgy. III.	matematika
+109	NK-16141	Matematika 9.	matematika
+110	NK-14425	Történelem IV.	történelem
+111	NK-14325	Történelem III.	történelem
+112	SH-2616	Kémia 9.	kémia
+113	LO-0154	Irodalomkönyv 11.	irodalom
+114	LO-0155	Szöveggyűjtemény 11.	irodalom
+115	RL-0097	Mozgóképkultúra és médiaismeret	médiaismeret
+116	BK-585	Filozófia középiskolásoknak	filozófia
+117	NK-15129	Négyjegyű függvénytáblázat	matematika
+118	NY-225	Fizika 9.	fizika
+119	NY-230	Fizika 10.	fizika
+120	LN-0030/1	Irodalom 11.	irodalom
+121	LN-0040/1	Irodalom 12.	irodalom
+122	LO-0156	Irodalomkönyv 12.	irodalom
+123	LO-0157	Irodalmi szgy. 12.	irodalom
+124	NK-16241	Matematika 10.	matematika

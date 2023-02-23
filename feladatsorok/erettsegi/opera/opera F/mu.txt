@@ -1,0 +1,32 @@
+﻿id;szerzo;cim
+1;Weber;A bűvös vadász
+2;Bizet;A Gyöngyhalászok
+3;Prokofjev;A három narancs szerelmese
+4;Bartók;A kékszakállú herceg vára
+5;Wagner;A nürnbergi mesterdalnokok
+6;Rossini;A sevillai borbély
+7;Mozart;A varázsfuvola
+8;Wagner;A walkür
+9;Hubay;Az álarc
+10;Erkel;Bánk bán
+11;Puccini;Bohémélet
+12;Verdi;Don Carlos
+13;Mozart;Don Juan
+14;Gounod;Faust
+15;Beethoven;Fidelio
+16;Offenbach;Hoffmann meséi
+17;Muszorgszkij;Hovanscsina
+18;Erkel;Hunyadi László
+19;Borogyin;Igor herceg
+20;Erkel;István király
+21;Delibes;Lakmé
+22;Donizetti;Lammermori Lucia
+23;Wagner;Lohengrin
+24;Flotow;Márta
+25;Mascagni;Parasztbecsület
+26;Puccini;Pillangókisasszony
+27;Goldmark;Sába királynője
+28;Strauss;Salome
+29;Rossini;Tell Vilmos
+30;Puccini;Tosca
+31;Bizet;Carmen

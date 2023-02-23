@@ -1,0 +1,182 @@
+id	cim	kerulet	allomasid
+1	II. János Pál Pápa tér	8	1
+2	Akadémia	5	2
+3	Alkotás utca	12	3
+4	Márvány utca	12	3
+5	Andrássy út	6	4
+6	Káldy Gyula utca	6	4
+7	Andrássy út	6	5
+8	Nagymező utca	6	5
+9	Apáczai Csere János utca	5	6
+10	Astoria	8	7
+11	BAH – csomópont	12	8
+12	Bajcsy-Zsilinszky út	5	9
+13	Kálmán Imre utca	5	9
+14	Bakáts tér	9	10
+15	Batthyány tér	1	11
+16	Bem József tér	2	12
+17	Bertalan Lajos utca	11	13
+18	Stoczek utca	11	13
+19	Bécsi út	3	14
+20	Óbudai Egyetem	3	14
+21	Blaha Lujza tér	8	15
+22	Boráros tér	9	16
+23	Bródy Sándor utca	8	17
+24	Múzeum körút	8	17
+25	Budafoki út	11	18
+26	Schönherz Kollégium	11	18
+27	Csalogány utca	2	19
+28	Medve utca	2	19
+29	Clark Ádám tér	1	20
+30	Corvin sétány	8	21
+31	Futó utca	8	21
+32	Corvinus Egyetem	9	22
+33	Császár uszoda	2	23
+34	Komjádi uszoda	2	23
+35	Csörsz utca	12	24
+36	MOM Kulturális Központ	12	24
+37	Deák tér	5	25
+38	Déli pályaudvar	12	26
+39	Dózsa György út	7	27
+40	Dembinszky utca	7	27
+41	Dózsa György út M	13	28
+42	Döbrentei tér	1	29
+43	Erzsébet körút	7	30
+44	Wesselényi utca	7	30
+45	Erzsébet tér	5	31
+46	Ferdinánd híd	6	32
+47	Podmaniczky utca	6	32
+48	Ferenc tér	9	33
+49	Ferenciek tere	5	34
+50	Fény utca	2	35
+51	Millenáris Park	2	35
+52	Fény utcai piac	2	36
+53	Fővám tér	9	37
+54	Garay tér	8	38
+55	Gárdonyi tér	11	39
+56	Gozsdu udvar	7	40
+57	Gyulai Pál utca	8	41
+58	Rákóczi út	8	41
+59	Horvát utca	2	42
+60	Horváth Mihály tér	8	43
+61	Hősök tere	6	44
+62	Jászai Mari tér	13	45
+63	Jókai utca	6	46
+64	Zichy Jenő utca	6	46
+65	József körút	8	47
+66	Baross utca	8	47
+67	József nádor tér	5	48
+68	Kálvin tér	5	49
+69	Károlyi utca	5	50
+70	Keleti pályaudvar	8	51
+71	Kéthly Anna tér	7	52
+72	Kiscelli utca	3	53
+73	Zápor utca	3	53
+74	Klauzál tér	7	54
+75	Kodály körönd	6	55
+76	Kolosy tér	3	56
+77	Kosztolányi Dezső tér	11	57
+78	Kőfaragó utca	8	58
+79	Vas utca	8	58
+80	Kőrösy József utca	11	59
+81	Krisztina tér	1	60
+82	Lajos utca	3	61
+83	Nagyszombat utca	3	61
+84	Lövölde tér	7	62
+85	Március 15. tér	5	63
+86	Margit híd – Buda	2	64
+87	Margit körút	2	65
+88	Tölgyfa utca	2	65
+89	Margitsziget		66
+90	Markusovszky tér	9	67
+91	Mechwart liget	2	68
+92	Mikszáth Kálmán tér	8	69
+93	MOM Park	12	70
+94	Móricz Zsigmond körtér	11	71
+95	Müpa	9	72
+96	Nemzeti Színház	9	72
+97	Műegyetem	11	73
+98	Nyugati pályaudvar	6	74
+99	Nyugati tér	6	75
+100	Oktogon	6	76
+101	Pannónia utca	13	77
+102	Raoul Wallenberg utca	13	77
+103	Pázmány Péter sétány	11	78
+104	Petőfi híd – Buda	11	79
+105	Podmaniczky tér	5	80
+106	Rákóczi tér	8	81
+107	Rózsák tere	7	82
+108	Rumbach Sebestyén utca	8	83
+109	Vendel utca	9	84
+110	Szabadság tér	5	85
+111	Szalay utca	5	86
+112	Falk Miksa utca	5	86
+113	Széchenyi fürdő	14	87
+114	Széna tér	2	88
+115	Szent Gellért tér	11	89
+116	Szent István körút	13	90
+117	Vígszínház	6	90
+118	Szent István park	13	91
+119	Szent János Kórház	12	92
+120	Szent Margit Kórház	3	93
+121	Szépvölgyi út	3	94
+122	Szilágyi Dezső tér	1	95
+123	Szilágyi Erzsébet fasor	12	96
+124	Fogaskerekű vasút	12	96
+125	Teréz körút	7	97
+126	Király utca	7	97
+127	Teréz körút	6	98
+128	Szondi utca	6	98
+129	Újbuda-Központ	11	99
+130	Üllői út	9	100
+131	Ferenc Körút	9	100
+132	Váci út 	13	101
+133	Bulcsú utca	13	101
+134	Lehel tér	13	101
+135	Váci út	13	102
+136	Victor Hugo utca	13	102
+137	Lehel tér	13	102
+138	Városháza Park	5	103
+139	Városmajor	12	104
+140	Nyúl utca	12	104
+141	Városligeti fasor	7	105
+142	Dózsa György út	7	105
+143	Vécsey utca	5	106
+144	Vigadó tér	5	107
+145	Villányi út	11	108
+146	Karolina út	11	108
+147	Villányi út	11	109
+148	Tas vezér utca	11	109
+149	Feneketlen-tó	11	109
+150	Vitkovics Mihály utca	5	110
+151	Városház utca	5	110
+152	Wesselényi utca	7	111
+153	Síp utca	7	111
+154	Zsigmond tér	2	112
+155	Almássy tér	7	113
+156	Bethlen Gábor tér	7	114
+157	Károly körút	7	115
+158	Astoria	7	115
+159	Zsinagóga	7	115
+160	Ráday utca	9	116
+161	Kinizsi utca	9	116
+162	Egry József utca 	11	117
+163	Egry József utca - E épület	11	117
+164	Műegyetem rakpart	11	118
+165	Műegyetem rakpart - R épület	11	118
+166	Magyar tudósok körútja	11	119
+167	Magyar tudósok körútja - Műegyetem - Q épület	11	119
+168	Műegyetem	11	119
+169	Moholy-Nagy Művészeti Egyetem	11	120
+170	Infopark - aluljáró	11	121
+171	Pázmány Péter sétány	11	122
+172	Pázmány Péter sétány - Északi tömb	11	122
+173	Kassák Lajos utca	13	123
+174	Dunyov István utca	13	123
+175	Papp Károly utca	13	124
+176	Hajdú utca	13	125
+177	Szegedi út	13	125
+178	Béke tér	13	126
+179	Rákosrendező vasútállomás	13	127
+180	Vágány utca	13	128
+181	Róbert Károly körút	13	128

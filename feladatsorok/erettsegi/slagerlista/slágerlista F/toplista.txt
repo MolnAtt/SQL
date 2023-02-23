@@ -1,0 +1,501 @@
+albumid	helyezes	platinadb	ev	kiado
+1	73		2007	Universal Music
+2	92		2008	Universal Music
+3	44		2008	Universal Music
+4	69	1	2008	Universal Music
+5	70	2	2009	Sony Music
+5	6	1	2008	Sony BMG
+6	16	1	2010	Sony Music
+7	28	1	2008	Sony BMG
+7	15		2007	Sony BMG
+8	46	1	2007	Sony BMG
+9	30		2009	Sony Music
+10	72		2010	Sony Music
+11	33		2011	XL Recordings
+12	37	1	2010	Falcon Media
+12	4	1	2009	Falcon Media
+13	10		2011	FalconRecords
+13	1	1	2010	FalconRecords
+14	16	1	2011	FalconRecords
+15	22	1	2007	FalconRecords
+16	96		2011	Sony Music
+17	34		2010	Universal Music
+18	80		2009	Universal Music
+18	61		2008	Universal Music
+19	35	1	2008	Universal Music
+19	65		2007	Universal Music
+20	86		2011	Universal Music
+21	54		2011	Universal Music
+22	77	1	2009	Universal Music
+22	12	1	2008	Universal Music
+23	2	2	2009	Universal Music
+24	18	2	2010	Universal Music
+25	20	2	2008	Universal Music
+25	3	2	2007	Universal Music
+26	17		2011	CLS Music
+27	54		2008	Magneoton
+28	84		2011	Sony Music
+29	35		2007	Sony BMG
+30	97		2007	Private Moon
+31	72		2011	Sony Music
+32	82		2010	Sony Music
+32	15		2009	Sony Music
+33	28		2009	Sony Music
+34	39		2010	Sony Music
+35	55		2011	Sony Music
+36	58	1	2011	Sony Music
+37	77		2007	1G Records
+38	62		2011	Universal Music
+38	7		2010	Universal Music
+39	36	1	2010	Universal Music
+39	1	1	2009	Universal Music
+40	97	2	2010	EMI
+40	64	2	2009	EMI
+40	7	2	2008	EMI
+40	1	2	2007	EMI
+41	72	1	2009	EMI
+41	2		2008	EMI
+42	62		2009	EMI
+42	68		2008	EMI
+43	37		2009	EMI
+44	77		2011	Sony Music
+45	67		2009	Sony Music
+46	60		2011	EMI
+47	36		2007	EMI
+48	98		2010	EMI
+49	86		2007	MusiCDome
+50	48		2011	Universal Music
+50	33		2010	Universal Music
+51	60		2007	Universal Music
+52	94		2011	Sony Music
+53	75		2011	Sony Music
+54	15		2011	EMI
+55	85	1	2011	EMI
+55	90	1	2010	EMI
+55	72	1	2008	EMI
+56	76	1	2011	EMI
+56	49		2010	EMI
+56	25		2009	EMI
+57	20	1	2011	Sony Music
+57	28	1	2010	Sony Music
+58	8	1	2011	Sony Music
+59	40		2011	Tom-Tom Records
+59	12		2010	Tom-Tom Records
+60	60		2009	Sony Music
+60	38		2008	Sony BMG
+61	87		2011	EMI
+62	46		2008	EMI
+63	45		2009	Universal Music
+64	54		2007	EMI
+65	99		2008	Magneoton
+66	82		2008	EMI
+67	78	4	2011	Fonó
+67	43	5	2010	Fonó
+67	48	4	2009	Fonó
+67	59		2008	Fonó
+68	38		2011	Fonó
+69	74	3	2011	Fonó
+69	31	3	2010	Fonó
+70	100		2008	EMI
+71	69		2007	Universal Music
+72	43		2011	EMI
+73	13	1	2010	EMI
+74	78		2010	Sony Music
+74	18		2009	Sony Music
+75	100		2009	Sony Music
+75	3		2008	Sony BMG
+76	66		2009	R&R
+77	83		2010	R&R
+78	16		2009	EMI
+79	44	1	2007	EMI
+80	68		2011	Hammer Music
+81	94	1	2010	Sony Music
+81	23	1	2009	Sony Music
+81	14		2008	Sony BMG
+82	78		2007	Sony BMG
+83	14	1	2009	Universal Music
+84	66	1	2007	Universal Music
+85	50		2008	Sony BMG
+86	79		2010	Private Moon
+87	80		2011	Magneoton
+88	86		2010	Seven Music
+89	55		2009	Sony Music
+89	10		2008	Sony BMG
+90	26	1	2008	Sony BMG
+90	2	1	2007	Sony BMG
+91	85		2008	Universal Music
+92	81		2009	Edda
+93	17		2008	Warner Music
+94	97		2009	Warner Music
+95	12	1	2009	Sony Music
+96	76	1	2008	Sony BMG
+96	33		2007	Sony BMG
+97	64		2008	Universal Music
+98	22		2009	Tom-Tom Records
+99	91		2009	Sony Music
+100	91		2007	Rózsa Records
+101	53		2008	Universal Music
+102	84		2009	EMI
+103	21		2009	EMI
+104	41		2009	EMI
+105	26		2009	EMI
+106	61	4	2010	Universal Music
+106	5	5	2009	Universal Music
+106	1	3	2008	Universal Music
+107	96		2008	Universal Music
+108	57		2009	Sony Music
+109	100		2011	Magneoton
+110	42		2007	EMI
+111	45	2	2007	Sony BMG
+112	43	1	2008	EMI
+113	63		2007	EMI
+114	81		2010	Universal Music
+115	31		2011	BMC Records
+116	70		2008	EMI
+117	41		2008	Universal Music
+118	40		2008	Fortuna Records
+119	53		2011	Zeneker
+120	14	1	2011	Universal Music
+120	9		2010	Universal Music
+121	29		2011	Universal Music
+122	18		2011	Universal Music
+123	11		2011	Universal Music
+124	50	1	2011	EMI
+124	14	1	2010	EMI
+124	9	1	2009	EMI
+125	99	1	2011	EMI
+126	34	1	2008	EMI
+126	12	1	2007	EMI
+127	38		2010	EMI
+127	17		2009	EMI
+128	49		2011	Universal Music
+128	41		2010	Universal Music
+129	8	1	2010	WM Records
+130	81		2011	WM Records
+131	35		2009	Sony Music
+132	64		2011	EMI
+133	52		2007	EMI
+134	27		2008	EMI
+135	89		2009	Sony Music
+136	85	1	2009	Galaxy Music
+137	65		2009	Hammer Music
+138	13	1	2007	CLS Music
+139	92		2010	EMI
+140	93		2009	Ismerős Arcok
+141	24		2009	Ismerős Arcok
+142	11		2008	Tom-Tom Records
+143	5		2011	Sony Music
+144	1	3	2011	Sony Music
+144	44	1	2010	Sony Music
+145	25		2011	Sony Music
+146	56		2009	EMI
+146	100		2007	EMI
+148	76		2007	Sony BMG
+149	29		2007	Klub Publishing
+150	98		2008	Magneoton
+151	90		2007	Sony BMG
+152	57		2008	Exkluzív Music
+153	74		2009	Exkluzív Music
+154	86		2009	EMI
+155	21		2008	EMI
+156	82		2007	Magneoton
+157	96		2010	EMI
+158	21		2010	Sony Music
+159	53		2009	Sony Music
+159	37		2008	Sony BMG
+160	48		2010	Sony Music
+161	41		2011	Sony Music
+162	13	2	2011	Sony Music
+162	11	1	2010	Sony Music
+163	63		2011	Megadó
+164	59		2009	Megadó
+165	59		2010	Alexandra
+166	96		2009	Alexandra
+167	48		2008	Universal Music
+167	23		2007	Universal Music
+168	95		2010	Megadó
+169	92		2007	EMI
+170	27	2	2011	Sony Music
+171	47		2010	Hungaroton
+172	77		2008	Hungaroton
+173	70		2011	CLS Music
+174	28		2011	Universal Music
+175	22		2010	Sony Music
+176	95		2007	Magic World Media
+177	30		2011	Universal Music
+178	34	2	2011	Universal Music
+178	3	2	2010	Universal Music
+178	6	1	2009	Universal Music
+179	81		2008	Sony BMG
+180	69		2009	Sony Music
+181	61		2009	Sony Music
+182	35		2010	Sony Music
+183	52		2008	Sony BMG
+184	18		2007	Sony BMG
+185	58		2007	Warner Music
+186	47		2007	Gold Record
+187	40		2010	Hammer Music
+188	40		2009	Hammer Music
+189	53	1	2007	Universal Music
+190	75		2008	Universal Music
+191	29		2009	Warner Music
+192	5		2008	Warner Music
+193	31		2007	Warner Music
+194	23	1	2011	Tom-Tom Records
+194	2	1	2010	Tom-Tom Records
+194	13	1	2009	Tom-Tom Records
+195	57		2011	Tom-Tom Records
+196	88	1	2010	Magneoton
+196	10		2009	Magneoton
+197	44		2011	Magneoton
+198	83		2011	Magneoton
+199	95		2011	Magneoton
+199	57		2010	Magneoton
+199	44		2009	Magneoton
+200	51	1	2008	Magneoton
+200	75		2007	Magneoton
+201	40		2007	Magneoton
+202	2		2011	Universal Music
+203	59		2007	Universal Music
+204	79		2007	Warner Music
+205	93		2010	Universal Music
+206	32		2008	EMI
+207	89		2007	Magneoton
+208	89		2008	Magneoton
+209	47		2008	Magneoton
+210	45		2011	Universal Music
+211	80		2008	EMI
+211	72		2007	EMI
+212	15	1	2008	Universal Music
+213	87		2007	Warner Music
+214	6	1	2011	Warner Music
+215	79		2009	Sony Music
+216	33	1	2009	Sony Music
+217	20	1	2009	Sony Music
+218	60		2010	Sony Music
+219	87	1	2010	Sony Music
+219	7	1	2009	Sony Music
+220	39		2009	Sony Music
+221	86		2008	Universal Music
+222	68		2010	Universal Music
+223	94		2009	Universal Music
+224	33		2008	Sony BMG
+225	41		2007	Sony BMG
+226	25		2008	Magyar Rádió
+227	74		2008	Magyar Rádió
+228	58		2009	Magyar Rádió
+229	59		2011	CLS Music
+230	42	2	2011	Sony Music
+231	36		2008	EMI
+231	61		2007	EMI
+232	31		2008	EMI
+232	88		2007	EMI
+233	22	1	2008	EMI
+233	20	1	2007	EMI
+234	4	1	2008	EMI
+235	26		2010	Universal Music
+236	34		2009	Magneoton
+237	51		2010	Universal Music
+238	45		2010	Sony Music
+239	5	1	2007	Universal Music
+240	84		2007	Hammer Music
+241	16		2007	EMI
+242	28		2007	EMI
+243	82		2009	EMI
+244	94		2008	MusiCDome
+244	43		2007	MusiCDome
+245	55		2010	Universal Music
+246	49		2008	Universal Music
+246	24		2007	Universal Music
+247	68		2009	Universal Music
+247	8		2008	Universal Music
+248	65		2010	Universal Music
+248	31		2009	Universal Music
+249	19	2	2007	Universal Music
+250	84	1	2010	CLS Music
+251	46	1	2011	CLS Music
+252	30		2010	Sony Music
+253	76		2010	Alexandra
+254	67		2011	Hammer Music
+255	43		2009	Hammer Music
+256	85		2007	Hammer Music
+257	51		2011	Sony Music
+257	66		2010	Sony Music
+258	9	2	2008	Sony BMG
+259	19	2	2009	Sony Music
+260	27	2	2010	Sony Music
+261	88		2011	Sony Music
+262	75		2010	Megadó
+263	90		2009	Megadó
+263	29		2008	Megadó
+263	83		2007	Megadó
+264	74		2010	Megadó
+264	46		2009	Megadó
+265	36		2009	Sony Music
+265	97		2008	Sony BMG
+266	34		2007	EMI
+267	55		2007	EMI
+268	56		2011	Sony Music
+269	100		2010	Sony Music
+270	63		2009	Sony Music
+271	95		2008	Sony BMG
+272	74		2007	Sony BMG
+273	54	1	2010	EMI
+273	38	1	2009	EMI
+274	36		2011	Tom-Tom Records
+275	24		2011	Tom-Tom Records
+275	17		2010	Tom-Tom Records
+276	79	1	2011	Tom-Tom Records
+276	89	1	2010	Tom-Tom Records
+277	29		2010	Tom-Tom Records
+277	99		2009	Tom-Tom Records
+278	87		2009	Universal Music
+279	52		2011	Warner Music
+280	80		2007	Warner Music
+281	90		2011	EMI
+281	64		2010	EMI
+282	53		2010	EMI
+282	52		2009	EMI
+283	25		2007	EMI
+284	71		2010	EMI
+285	73		2011	EMI
+286	24		2008	EMI
+287	83	1	2008	Universal Music
+287	21	1	2007	Universal Music
+288	37		2011	Universal Music
+288	62		2010	Universal Music
+289	69		2011	Universal Music
+290	91		2010	Hammer Music
+291	67		2010	EMI
+292	49		2009	EMI
+293	80		2010	Sony Music
+294	77	1	2010	Sony Music
+294	76	1	2009	Sony Music
+295	55		2008	EMI
+295	70		2007	EMI
+296	75		2009	CLS Music
+296	13	1	2008	CLS Music
+297	26		2011	Magneoton
+298	11	2	2007	CLS Music
+299	66	1	2008	CLS Music
+299	32		2007	CLS Music
+300	38	3	2007	Universal Music
+301	10	1	2010	Sony Music
+302	32		2011	Sony Music
+303	65		2011	Sony Music
+303	32		2010	Sony Music
+304	71	1	2008	Sony BMG
+304	51		2007	Sony BMG
+305	45		2008	Warner Music
+306	35	1	2011	Sony Music
+306	19	1	2010	Sony Music
+307	39		2008	Sony BMG
+308	63		2010	Gold Record
+309	52		2010	Tom-Tom Records
+310	27	1	2009	Universal Music
+311	89	1	2011	Universal Music
+311	25	1	2010	Universal Music
+312	98		2011	Universal Music
+313	69		2010	Sony Music
+313	47		2009	Sony Music
+314	50		2010	Sony Music
+315	42		2009	Szabó Eszter Produkció
+316	42		2008	Magneoton
+317	50		2009	Magneoton
+318	16	1	2008	Magneoton
+318	10		2007	Magneoton
+319	19	1	2011	Universal Music
+319	58		2010	Universal Music
+320	21		2011	Universal Music
+321	71		2009	Universal Music
+322	49		2007	Sony BMG
+323	61		2011	Universal Music
+324	82		2011	Universal Music
+324	15		2010	Universal Music
+325	5	1	2010	Universal Music
+326	7		2011	Sony Music
+327	3	3	2011	Sony Music
+327	4	1	2010	Sony Music
+328	90		2008	CLS Music
+328	26		2007	CLS Music
+329	70	1	2010	Alexandra
+329	3	1	2009	Alexandra
+330	78		2009	Universal Music
+331	50		2007	Record Express
+332	99		2007	Record Express
+333	64		2007	Universal Music
+334	66		2011	Tom-Tom Records
+335	99		2010	EMI
+336	48	1	2007	Universal Music
+337	11	1	2009	Universal Music
+338	93		2008	Klub Publishing
+339	98	1	2009	Tom-Tom Records
+340	9		2007	EMI
+341	56		2007	Magneoton
+342	92		2009	Sony Music
+342	56		2008	Sony BMG
+343	62	1	2007	Sony BMG
+344	17		2007	Sony BMG
+345	78		2008	Sony BMG
+346	56		2010	Fortuna Records
+347	54		2009	Fortuna Records
+348	81		2007	Magneoton
+349	97		2011	Universal Music
+350	94		2007	Sony BMG
+351	4		2007	Magneoton
+352	60		2008	Magneoton
+352	71		2007	Magneoton
+353	7		2007	EMI
+354	91		2008	Universal Music
+355	87		2008	Universal Music
+356	93		2011	Sony Music
+356	23		2010	Sony Music
+357	30	1	2008	Sony BMG
+358	57	1	2007	Sony BMG
+359	84		2008	Sony BMG
+359	30		2007	Sony BMG
+360	67		2008	Sony BMG
+361	88		2009	Sony Music
+362	85		2010	Sony Music
+363	65		2008	EMI
+364	39		2007	EMI
+365	58		2008	Sony BMG
+365	14		2007	Sony BMG
+366	73		2008	CLS Music
+367	95		2009	Sony Music
+368	91		2011	Sony Music
+368	46		2010	Sony Music
+369	93		2007	Sony BMG
+370	62		2008	Sony BMG
+370	37		2007	Sony BMG
+371	98		2007	Magneoton
+372	23	2	2008	Sony BMG
+373	83		2009	Sony Music
+374	6	2	2007	Sony BMG
+375	96		2007	Magneoton
+376	63		2008	Sony BMG
+377	73		2009	Sony Music
+378	8	2	2007	Sony BMG
+379	20	1	2010	Universal Music
+380	73		2010	Universal Music
+381	12		2011	Sony Music
+382	4	3	2011	Sony Music
+382	6	1	2010	Sony Music
+383	39		2011	Sony Music
+384	32		2009	Sony Music
+385	22		2011	Sony Music
+386	47		2011	Sony Music
+387	92		2011	CLS Music
+388	19		2008	Magneoton
+389	79		2008	Sony BMG
+390	71	1	2011	Sony Music
+390	24		2010	Sony Music
+391	68		2007	Sony BMG
+392	88	1	2008	Sony BMG
+392	27	1	2007	Sony BMG
+393	42		2010	Universal Music
+393	8		2009	Universal Music
+394	9		2011	Universal Music
+395	67		2007	Universal Music
+396	51		2009	Magneoton
+396	18		2008	Magneoton

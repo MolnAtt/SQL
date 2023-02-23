@@ -1,0 +1,21 @@
+id	nev	kategoria
+1	informatika	informatika
+2	földünk és környezetünk	reál
+3	irodalom	humán
+4	történelem	humán
+5	matematika	matematika
+6	fizika	reál
+7	ének-zene	művészeti
+8	rajz- és vizuális kultúra	művészeti
+9	filozófia	humán
+10	biológia	reál
+11	kémia	reál
+12	angol nyelv	nyelv
+13	francia nyelv	nyelv
+14	német nyelv	nyelv
+15	olasz nyelv	nyelv
+16	orosz nyelv	nyelv
+17	spanyol nyelv	nyelv
+18	latin nyelv	nyelv
+19	magyar nyelv	humán
+20	művészetek	művészeti

@@ -1,0 +1,398 @@
+frekvencia	teljesitmeny	csatorna	adohely	cim
+87,6	7,6	Neo FM 	Győr	Szabadhegy 
+87,6	0,5	Gong Rádió	Csongrád	
+87,6	  	Kontakt Rádió 	Budapest	Terézváros 
+87,8	0,001	ZsebRádió 	Halásztelek 	
+87,8	0,0006	Remete Rádió 	Pécs	Istenkút 
+87,8	0,0005	Origóház Rádió 	Pécs	Mecsekszabolcs 
+87,8	0,001	Rádió Sansz - A lehetőség! 	Székesfehérvár 	
+87,9	0,2	Dió Rádió 	Hatvan 	
+87,9	0,16	Rádió 1 	Sárbogárd 	
+88	0,125	N-Joy 88,0	Marcali 	
+88	0,002	Méliusz Rádió 	Debrecen 	
+88	0,007	Berettyó Night 	Berettyóújfalu 	
+88	0,001	Alfa Rádió 	Balkány 	
+88	  	Karcag FM 	Karcag 	
+88,1	1	Rise FM 	Budapest	Gellért-hegy 
+88,1	  	  	Győr 	
+88,2	0,2	Mária Rádió 	Kiskunmajsa 	
+88,2	0,05	Pelso Rádió 	Balatonföldvár 	
+88,3	5	MR1-Kossuth Rádió 	Tokaj	Nagy-kopasz 
+88,3	1	Mária Rádió 	Komárom 	
+88,3	0,1	Juventus Rádió	Mezőkovácsháza 	
+88,4	2	Neo FM 	Csengőd	Kiskőrös 
+88,4	0,3	Nyugat Rádió	Szombathely 	
+88,6	0,1	Juventus Rádió	Orosháza 	
+88,6	0,3	Tenkes Rádió 	Siklós 	
+88,7	0,3	Parti Rádió 	Tiszafüred 	
+88,7	0,24	Gong Rádió Baja 	Baja 	
+88,7	0,001	Triangulum Rádió 	Őriszentpéter 	
+88,7	0,002	Vértes Rádió 	Zámoly 	
+88,8	0,1	Rádió C 	Budapest	Széchenyi-hegy 
+88,8	0,1	Klubrádió 	Ajka 	
+88,8	0,5	Rádió TOP 	Kazincbarcika 	
+88,9	0,3	Rádió 1 Start 	Békéscsaba 	
+88,9	0,2	Klubrádió Gyöngyös 	Gyöngyös	Sár-hegy 
+88,9	0,1	N-Joy 88,9	Zalaegerszeg 	
+88,9	0,001	Muzik Rádió 	Székesfehérvár 	
+89	1	MR2-Petőfi Rádió 	Debrecen	Pallag 
+89	0,1	Ezerjó Rádió 	Mór 	
+89,2	0,05	Parti Rádió 	Abádszalók 	
+89,4	6,3	MR2-Petőfi Rádió 	Csávoly 	
+89,5	83	Juventus Rádió 	Budapest	Széchenyi-hegy 
+89,5	0,05	MR1-Kossuth Rádió 	Barcs 	
+89,6	0,2	Rádió 35 	Tiszaújváros 	
+89,6	0,002	Mustár Rádió 	Nyíregyháza 	
+89,8	0,1	Bajai Rádió 	Baja 	
+89,8	0,2	Rádió Express 89,8 	Sárospatak 	
+89,9	5	MR1-Kossuth Rádió 	Komádi 	
+89,9	0,05	MR1-Kossuth Rádió 	Salgótarján 	
+89,9	0,003	Puszta Rádió 	Kunszentmiklós 	
+89,9	0,001	Szóbeszéd Rádió Mártély 	Mártély 	
+89,9	0,002	Rákóczi Hírmondó 	Rákóczifalva 	
+89,9	0,001	Itt mi vagyunk! Rádió Mi 	Szeged 	
+89,9	0,001	Pont Rádió 	Mezőtúr 	
+89,9	0,003	Rádió Weekend 	Tótkomlós 	
+89,9	0,001	Rádió Smile 	Kiskunfélegyháza 	
+90	0,5	Friss Rádió 	Debrecen 	
+90	0,07	  	Várpalota 	
+90,2	8,3	Neo FM 	Nagykanizsa	Újudvar, Tukora 
+90,2	3	MR1-Kossuth Rádió 	Telkibánya	Nagy-hegy 
+90,2	0,1	Rádió 1 Orosháza 	Orosháza 	
+90,3	3	MR2-Petőfi Rádió 	Sárszentlőrinc	Úzd 
+90,3	0,6	Neo FM 	Szeged 	
+90,3	0,4	Tilos Rádió 	Budapest	Változó 	
+90,3	0,1	Rádió Plusz 	Berettyóújfalu 	
+90,4	0,1	Európa Rádió 	Miskolc	Pereces 
+90,4	0,2	Európa Rádió Záhony 	Záhony 	
+90,4	0,2	Rádió 2000 	Szolnok 	
+90,4	0,1	Gondola Rádió 	Velence	Meleg-hegy 
+90,5	0,8	Kék Duna Rádió	Komárom 	
+90,5	0,25	Juventus Rádió	Gyula 	
+90,6	1,25	Klubrádió 	Veszprém 	
+90,6	1	Szent István Rádió 	Sátoraljaújhely	Magas-hegy 
+90,6	0,25	Rádió 1 	Pécs	Kertváros 
+90,7	28,2	MR3-Bartók Rádió 	Kékes 	
+90,8	0,1	MR1-Kossuth Rádió 	Hódmezővásárhely 	
+90,8	  	MR1-Kossuth Rádió 	Hódmezővásárhely 	
+90,9	0,2	90,9 Jazzy 	Budapest	Sas-hegy 
+91	0,01	István Király Rádió 	Győr	Bácsa 
+91,1	0,5	  	Nyíregyháza 	
+91,1	0,45	Alisca Rádió 	Szekszárd 	
+91,1	0,2	SUNSHINE Rádió Pilis 	Szentendre	Pismány-hegy 
+91,1	0,1	Sirius Rádió 	Kiskunfélegyháza 	
+91,2	0,1	Enjoy Rádió 	Kaposvár 	
+91,3	0,1	MR1-Kossuth Rádió 	Dunaújváros 	
+91,4	1,2	MR6-A Régió Rádiója - Debrecen 	Debrecen	Pallag 
+91,4	0,05	Mária Rádió 	Komló 	
+91,4	0,001	Domb Rádió Sellye 	Sellye 	
+91,4	0,001	Diák Rádió Szerencs 	Szerencs 	
+91,5	1	Kék Duna Rádió	Győr	Szabadhegy 
+91,6	6,8	Neo FM 	Vasvár	Hegyhátsál 
+91,6	1	MR1-Kossuth Rádió 	Szentes 	
+91,6	1	Fortuna Rádió 	Cece 	
+91,7	1,2	Kunság Rádió 	Kiskőrös 	
+91,7	0,1	Mária Rádió 	Pécel 	
+91,8	0,5	Szent István Rádió 	Eger	Nagy-Eged 
+91,8	0,2	Klubrádió 	Balatonfüred 	
+91,8	0,16	MR1-Kossuth Rádió 	Püspökladány 	
+91,9	1	MR1-Kossuth Rádió 	Sátoraljaújhely	Magas-hegy 
+91,9	0,004	Diák Rádió Edelény 	Edelény 	
+92	0,1	MR1-Kossuth Rádió 	Paks 	
+92,1	1	BBC-RFI 	Budapest	Széchenyi-hegy 
+92,2	0,1	Aktív Rádió 	Szolnok 	
+92,2	0,1	Klubrádió	Keszthely 	
+92,2	0,035	SuGo Rádió 	Baja 	
+92,3	1	MR1-Kossuth Rádió 	Székesfehérvár	Sóstó 
+92,3	0,3	Rádió 1 	Debrecen 	
+92,4	0,001	Diósgyőr Rádió 	Miskolc	Diósgyőr 
+92,4	0,003	Rádió Egy 100 	Százhalombatta 	
+92,4	0,003	Zöld Rádió 	Erdőkertes 	
+92,4	0,001	Rádió Füzes 	Füzesabony 	
+92,4	0,003	Diák Rádió Kazincbarcika 	Kazincbarcika 	
+92,4	0,001	Hernád Völgye Rádió	Aszaló 	
+92,4	0,0004	Rádió Eper 	Miskolc 	
+92,4	0,001	Zagyvan Rádió 	Hatvan 	
+92,5	0,316	Cegléd Rádió 88 	Cegléd 	
+92,5	0,1	Kék Duna Rádió Győr 	Esztergom	Elő-hegy 
+92,6	1	Juventus Rádió 	Siófok 	
+92,7	50	MR2-Petőfi Rádió 	Tokaj	Nagy-kopasz 
+92,7	0,1	Klubrádió 	Pápa 	
+92,8	0,25	Tamási Rádió 	Bonyhád 	
+92,9	5	Magyar Katolikus Rádió	Budapest	Gellért-hegy 
+92,9	0,05	Party FM 92,9 Rádió 	Kiskunhalas 	
+92,9	0,1	Rádió Egerszeg 	Zalaegerszeg 	
+93	1	MR1-Kossuth Rádió 	Cegléd 	
+93	0,1	MR1-Kossuth Rádió 	Szombathely 	
+93,1	7,5	MR2-Petőfi Rádió 	Győr	Szabad-hegy 
+93,1	0,76	MR6-A Régió Rádiója - Szeged 	Szeged 	
+93,1	0,1	EL-DO Rádió 	Dunaújváros 	
+93,2	0,3	  	Ajka 	
+93,3	0,15	Rádió FM 95 Hajdúnánás 	Hajdúnánás 	
+93,4	1	Dabas Rádió 	Dabas 	
+93,4	0,2	Vár FM Kisvárda 	Kisvárda 	
+93,5	1	Klubrádió Debrecen 	Debrecen 	
+93,5	0,002	Fúzió Rádió 	Budapest	Újbuda
+93,5	0,001	Kolumbusz Rádió 	Etyek	Botpuszta 
+93,5	0,002	Csobán Rádió 	Csobánka 	
+93,6	5	Rádió Express 93,6 	Szikszó 	
+93,6	3	MR1-Kossuth Rádió 	Siófok	Balatonszabadi-Sóstó 
+93,6	0,1	Arany Rádió 	Nagykőrös
+93,6	0,1	Gong Rádió Nagykőrös 	Nagykőrös
+93,6	0,1	Pelikán Rádió	Gödöllő 	
+93,7	2,5	MR1-Kossuth Rádió 	Balassagyarmat	Szügy-Dezsőpuszta 
+93,7	0,1	Diórádió 	Heves 	
+93,7	0,005	Csillaghang Rádió 	Budapest	Budafok
+93,8	0,4	Baranya Rádió 	Mohács 	
+93,8	0,2	  	Karcag 	
+93,9	65,6	MR2-Petőfi Rádió 	Kab-hegy 	
+94	0,8	Fortuna Rádió 	Bonyhád 	
+94	0,316	Szent István Rádió 	Hatvan 	
+94,1	0,5	Nap Rádió 	Sopron	Dalos-hegy 
+94,1	0,1	Mária Rádió 	Vác	Sződliget 
+94,1	0,5	Gong Rádió Solt 	Solt 	
+94,2	0,1	Mária Rádió 	Budapest	Sas-hegy 
+94,2	0,003	Rádió Ice 	Makó 	
+94,2	0,0004	Tisza Rádió 	Szeged 	
+94,3	12	MR2-Petőfi Rádió 	Nagykanizsa	Újudvar
+94,3	6,3	MR1-Kossuth Rádió 	Szolnok 	
+94,3	0,05	Alisca Rádió 	Baja 	
+94,4	1	Gold FM Debrecen	Debrecen 	
+94,4	0,07	Torony Rádió 	Békés 	
+94,5	0,125	Juventus Rádió Kapuvár 	Kapuvár 	
+94,5	0,1	Fehérvár Rádió 	Székesfehérvár	Öreghegy 
+94,6	3	MR1-Kossuth Rádió 	Aggtelek	Szár-hegy 
+94,6	0,1	Rádió 1 	Veszprém 	
+94,6	0,1	Mária Rádió 	Pécs 	
+94,7	0,1	Rádió Plusz 	Derecske 	
+94,8	77,6	MR2-Petőfi Rádió 	Budapest	Széchenyi-hegy 
+94,8	0,15	N-Joy 94,8 Letenye 	Letenye 	
+94,9	0,6	Klassz Rádió  	Szeged 	
+95	0,5	Rádió FM 95 	Debrecen 	
+95	1	MR1-Kossuth Rádió 	Mosonmagyaróvár 	
+95	0,1	MR1-Kossuth Rádió 	Bácsalmás 	
+95,1	1,74	MR2-Petőfi Rádió 	Csengőd	Kiskőrös 
+95,1	1	Szent István Rádió 	Miskolc	Pereces 
+95,1	0,001	Karzat Rádió Sárospatak 	Sárospatak 	
+95,2	0,1	Juventus Rádió Szarvas 	Szarvas 	
+95,3	0,93	Klubrádió 	Budapest	Széchenyi-hegy 
+95,4	1	Rádió 88 	Szeged 	
+95,4	5	Rádió Express 95,4 	Encs 	
+95,5	20	Neo FM 	Kékes 	
+95,6	0,91	Rádió FUN 	Debrecen 	
+95,6	0,126	Kanizsa Rádió 	Nagykanizsa	Újudvar
+95,6	0,1	MR1-Kossuth Rádió 	Veszprém 	
+95,7	1	Gazdasági Rádió 95,7 	Balassagyarmat 	
+95,7	0,2	Rádió Plusz 	Szentes 	
+95,8	2	Infó Rádió 	Budapest	Széchenyi-hegy 
+95,9	25,1	Neo FM 	Pécs	Misina-tető 
+95,9	0,2	Új Juventus 	Kazincbarcika 	
+96	0,25	MR1-Kossuth Rádió 	Gyula 	
+96	0,2	MR1-Kossuth Rádió 	Sárvár 	
+96,2	0,1	MR1-Kossuth Rádió 	Eger 	
+96,3	0,3	Fortuna Rádió 	Paks 	
+96,3	0,25	Új Juventus 	Miskolc	Avas 
+96,3	0,003	Rádio Studio 	Zalaegerszeg 	
+96,4	2,5	Roxy Rádió 	Budapest	Gellért-hegy 
+96,4	0,58	Rádió 1 	Győr 	
+96,4	0,3	Rádió Törökszentmiklós 	Törökszentmiklós 	
+96,4	0,1	MR1-Kossuth Rádió 	Pápa 	
+96,5	2	Gong Rádió 	Kecskemét 	
+96,5	0,1	Isis Rádió 	Sárvár 	
+96,6	0,3	Yo! Rádió Sárbogard 	Sárbogárd 	
+96,6	0,001	Haraszti Hangja Rádió 	Dunaharaszti 	
+96,7	37,1	MR2-Petőfi Rádió 	Komádi 	
+96,7	6,3	Neo FM 	Csávoly 	
+96,7	3	MR1-Kossuth Rádió 	Kaposvár	Rómahegy 
+96,7	0,3	Klubrádió 	Tatabánya	Árpád Hotel 
+96,8	8,9	Neo FM 	Sopron	Dalos-hegy 
+96,8	0,2	Árkádia Rádió 	Makó 	
+96,8	1	Rádió 17 Rákosmente 	Budapest	XVII. Kerület
+96,8	0,001	Rádió Twist 	Debrecen 	
+97	0,0005	Első Pesti Egyetemi Rádió (EPER) 	Budapest	ELTE
+97	0,01	Kis-Duna Rádió 	Áporka 	
+97,1	5,6	Neo FM 	Miskolc	Avas 
+97,1	0,2	Rádió Szombathely 	Szombathely 	
+97,1	0,5	Yo! Rádió 	Várpalota 	
+97,1	0,0008	Periszkóp Rádió 	Pécs	
+97,1	0,003	Kerepes Rádió 	Kerepes 	
+97,2	0,05	Rádió Gyömrő 97,2 MHz 	Gyömrő 	
+97,2	0,05	Gong Rádió Gyömrő 	Gyömrő 	
+97,3	1,25	Abszolút Rádió 	Göd 	
+97,3	1	MR1-Kossuth Rádió 	Békéscsaba 	
+97,4	1	Rádió Antritt Dunaföldvár 	Dunaföldvár 	
+97,4	0,2	  	Esztergom 	
+97,5	50,1	Neo FM 	Tokaj	Nagy-kopasz 
+97,5	0,15	K1 Rádió 	Kaposvár 	
+97,5	0,4	Mária Rádió 	Dabas 	
+97,6	0,8	Rádió 7 Hódmezővásárhely 	Hódmezővásárhely 	
+97,7	1	Klubrádió 	Kecskemét 	
+97,7	0,8	MR1-Kossuth Rádió 	Kazincbarcika 	
+97,7	0,1	Rádió Jászberény 	Jászberény 	
+97,7	0,1	Rádió Szentgotthárd/Monošter 	Felsőszölnök	Kakas-domb 
+97,8	0,1	Rádió Radír 	Tatabánya	Kő-hegy 
+97,9	10	MR1-Kossuth Rádió 	Karcag 	
+97,9	0,01	Berettyó Rádió 	Berettyóújfalu 	
+97,9	0,01	Campus Rádió 	Nyíregyháza	Jósaváros 
+97,9	0,001	4-SSSS Rádió 	Téglás 	
+97,9	0,001	Galaxis Rádió 	Heves 	
+98	0,138	Civil Rádió 	Budapest	Lágymányos 
+98	0,004	Abakusz Rádió 	Hajdúböszörmény 	
+98	0,001	Best of Rádió 	Tiszavasvári 	
+98,1	0,1	Klubrádió 	Esztergom	Elő-hegy 
+98,2	7,5	MR2-Petőfi Rádió 	Vasvár	Hegyhátsál 
+98,2	0,1	MR1-Kossuth Rádió 	Túrkeve 	
+98,3	5,6	Klassz Rádió  	Miskolc	Avas 
+98,4	0,05	HA-JÓ Rádió 	Vaja 	
+98,6	1,2	Rádió Café 	Budapest	Széchenyi-hegy 
+98,7	0,8	N-Joy 98,7 Dombóvár 	Dombóvár 	
+98,8	32,4	MR2-Petőfi Rádió 	Szentes 	
+98,8	0,002	Berzsenyi Rádió 	Szombathely 	
+98,8	0,003	Rádió Cell 	Celldömölk 	
+98,9	1	N-Joy 98,9 Szigetvár 	Szigetvár 	
+98,9	0,32	Rise FM 	Tihany 	
+98,9	0,35	Rádió Fun 	Hajdúböszörmény 	
+98,9	0,1	Mária Rádió 	Gyál 	
+98,9	0,01	Rádió Avas 	Miskolc 	
+98,9	0,01	Ózdi Diák Rádió 	Ózd 	
+98,9	0,001	Rakamaz FM 	Rakamaz 	
+99	0,5	MR1-Kossuth Rádió 	Szekszárd 	
+99,1	0,1	Gerilla Rádió 99,1 	Dunaújváros 	
+99,2	0,631	Vörösmarty Rádió 	Székesfehérvár	Öreghegy 
+99,4	0,1	SUNSHINE Rádió Nyíregyháza 	Nyíregyháza 	
+99,4	0,25	Rádió 1 	Komló 	
+99,4	0,2	MR1-Kossuth Rádió 	Szeghalom 	
+99,4	0,1	Helikon Rádió 	Keszthely 	
+99,5	8,9	MR2-Petőfi Rádió 	Sopron	Dalos-hegy 
+99,5	5	Rádió Q 	Budapest	Gellért-hegy 
+99,5	0,05	Új Juventus 	Ózd 	
+99,5	0,2	  	Fehérgyarmat 	
+99,5	0,005	Origó Rádió Miskolc 	Miskolc 	
+99,6	1,25	Gong Rádió Kecel FM 99,6 MHz 	Kecel 	
+99,7	1,38	MR1-Kossuth Rádió 	Debrecen	Pallag 
+99,8	0,32	MR1-Kossuth Rádió 	Kékes 	
+99,8	0,4	Rádió 8 Körmend 	Körmend 	
+99,9	1	Kapos Rádió 	Kaposvár 	
+100	0,1	Korona Rádió Kalocsa 	Kalocsa 	
+100	0,94	Rádió Aktív FM 100,0 MHz 	Sátoraljaújhely	Magas-hegy 
+100,1	0,57	  	Győr 	
+100,2	2	Rádió Plusz 	Szeged 	
+100,3	1	Lánchíd Rádió 	Budapest	SOTE 
+100,4	34,7	Neo FM 	Szentes 	
+100,4	0,1	Rádió Focus 	Salgótarján 	
+100,5	67,6	Klassz Rádió  	Kab-hegy 	
+100,5	1	  	Nyíregyháza 	
+100,6	3	Mária Rádió 	Telkibánya 	
+100,6	0,25	Rádió Fun 	Hajdúszoboszló 	
+100,7	1	Gazdasági Rádió 100,7 	Eger 	
+100,7	0,1	Lajta Rádió 	Mosonmagyaróvár 	
+100,8	79,4	Neo FM 	Budapest	Széchenyi-hegy 
+100,9	0,25	Juventus Rádió Békéscsaba 	Békéscsaba 	
+100,9	0,1	Villány Rádió 	Villány 	
+101,1	1	Klassz Rádió  	Debrecen	Pallag 
+101,2	0,2	Mediterrán Rádió 	Pécs 	
+101,2	2	MR6-A Régió Rádiója Debrecen 	Szolnok 	
+101,3	0,1	Rádió 6 FM 101,3 	Érd 	
+101,3	1	Rádió Eger 	Eger	Almagyar-domb 
+101,3	0,05	Juventus Rádió 	Fonyód 	
+101,4	7,6	Klassz Rádió  	Győr	Szabadhegy 
+101,4	0,001	Helló Rádió 	Budapest	XIV. kerület 	
+101,5	3	Neo FM 	Sárszentlőrinc	Úzd 
+101,6	21,9	Klassz Rádió  	Komádi 	
+101,6	0,5	MR1-Kossuth Rádió 	Sopron	Dalos-hegy 
+101,7	2	MR6-A Régió Rádiója-Pécs 	Pécs	Misina-tető 
+101,7	0,05	DióRádió 	Gyöngyös	Sár-hegy 
+101,7	0,003	Rádió Kistarcsa 	Kistarcsa 	
+101,8	1	Rádió 1 	Székesfehérvár	Sóstó 
+101,8	0,1	Yo! Rádió 	Tapolca 	
+101,8	0,1	Rádió Express 101,8 	Tokaj	Nagy-kopasz 
+101,8	0,003	Zöld hullám Rádió 	Piliscsaba 	
+101,8	0,002	Taks Rádió 	Taksony 	
+101,9	2	MR1-Kossuth Rádió 	Szeged 	
+101,9	1	Tamási Rádió 	Tamási 	
+101,9	0,16	Rádió 1 	Eger 	
+102	22,4	Klassz Rádió  	Sopron	Dalos-hegy 
+102,1	0,74	102,1 Sztár Rádió 	Budapest	Széchenyi-hegy 
+102,1	0,5	Európa Rádió Mezőkövesd 	Mezőkövesd 	
+102,2	0,5	Aktív Rádió 	Tiszakécske 	
+102,3	3,16	MR1-Kossuth Rádió 	Kab-hegy 	
+102,3	1,4	MR6-A Régió Rádiója-Miskolc 	Miskolc	Avas 
+102,4	  	MR1-Kossuth Rádió 	Kunszentmiklós 	
+102,5	0,48	Gold FM Tatabánya 	Tatabánya	Árpád Hotel 
+102,6	0,3	MR1-Kossuth Rádió 	Nyíregyháza 	
+102,6	0,5	N-Joy 102,6 Kaposvár 	Kaposvár 	
+102,6	0,1	MR1-Kossuth Rádió 	Zalaegerszeg	Bazita 
+102,7	30,2	MR2-Petőfi Rádió 	Kékes 	
+102,7	0,95	Aqua Rádió Barcs 	Barcs 	
+102,7	0,1	MR1-Kossuth Rádió 	Kiskunhalas 	
+102,9	0,5	Rádió 24 	Dunaújváros 	
+102,9	0,002	FeZen Rádió 	Székesfehérvár 	
+103	38,9	Neo FM 	Komádi 	
+103	1	Sztár FM 	Miskolc	Avas 
+103,1	0,1	OXYGEN FM	Győr	Erzsébetliget 
+103,2	0,3	Európa Rádió Kisújszállás 	Kisújszállás 	
+103,3	81,3	Klassz Rádió  	Budapest	Széchenyi-hegy 
+103,5	50,1	Klassz Rádió  	Tokaj	Nagy-kopasz 
+103,6	5	MR1-Kossuth Rádió 	Vasvár	Hegyhátsál 
+103,7	49,5	MR2-Petőfi Rádió 	Pécs	Misina-tető 
+103,8	5	MR1-Kossuth Rádió 	Miskolc	Avas 
+103,8	0,05	MR1-Kossuth Rádió 	Letenye 	
+103,9	5	Rádió 1 	Budapest	Gellért-hegy 
+103,9	1	Retro FM 	Nyíregyháza 	
+104	1	Csaba Rádió 	Békéscsaba 	
+104,2	0,05	Mária Rádió 	Piliscsaba 	
+104,6	5,1	MR2-Petőfi Rádió 	Szeged 	
+104,6	5	MR1-Kossuth Rádió 	Pécs	Misina-tető 
+104,6	0,8	  	Debrecen 	
+104,6	0,6	Corvinus Rádió 	Sopron	Dalos-hegy 
+104,7	26,9	Klassz Rádió  	Kékes 	
+104,7	20,4	MR3-Bartók Rádió 	Nagykanizsa	Újudvar, Tukora 
+104,8	0,3	Budaörs Rádió 	Budaörs 	
+104,9	1	MR1-Kossuth Rádió 	Kecskemét 	
+104,9	0,81	Mária Rádió 	Dömös 	
+105	69,5	MR3-Bartók Rádió 	Kab-hegy 	
+105	0,05	MR1-Kossuth Rádió 	Ózd 	
+105,1	30	MR3-Bartók Rádió 	Komádi 	
+105,1	0,78	Rádió Antritt 	Szekszárd 	
+105,2	5,2	MR1-Kossuth Rádió 	Rábaszentandrás 	
+105,3	81,3	MR3-Bartók Rádió 	Budapest	Széchenyi-hegy 
+105,4	0,05	MR1-Kossuth Rádió 	Battonya 	
+105,4	0,003	Rádió X 	Hódmezővásárhely 	
+105,4	0,003	Rádió Szarvas 	Szarvas 	
+105,5	50,1	Klassz Rádió  	Pécs	Misina-tető 
+105,5	50	MR3-Bartók Rádió 	Tokaj	Nagy-kopasz 
+105,6	10	MR1-Kossuth Rádió 	Gerecse 	
+105,7	2,2	MR3-Bartók Rádió 	Szeged 	
+105,9	5	MR1-Kossuth Rádió 	Fehérgyarmat	Penyige 
+105,9	3,2	Gazdasági Rádió 	Budapest	Gellért-hegy 
+105,9	3	MR3-Bartók Rádió 	Csengőd	Kiskőrös 
+106	0,74	Rádió Max 	Debrecen 	
+106,1	0,1	Rádió Szentes 	Szentes 	
+106,3	0,2	Part Rádió 	Balatonalmádi 	
+106,3	0,1	Mária Rádió 	Monor 	
+106,4	1	MR1-Kossuth Rádió 	Győr	Szabadhegy 
+106,4	0,05	MR1-Kossuth Rádió 	Tiszakécske 	
+106,5	1	Alisca Rádió 	Dunaföldvár 	
+106,5	1	Gold FM Miskolc	Miskolc	Avas 
+106,6	1	MR3-Bartók Rádió 	Debrecen	Pallag 
+106,6	0,1	Rádió Szentgotthárd	Szentgotthárd	Zsida-hegy 
+106,7	5	MR1-Kossuth Rádió 	Nagykanizsa	Újudvar, Tukora 
+106,8	7,4	MR3-Bartók Rádió 	Győr	Szabadhegy 
+106,9	3	MR3-Bartók Rádió 	Sárszentlőrinc	Úzd 
+106,9	3	MR3-Bartók Rádió 	Vasvár	Hegyhátsál 
+106,9	1	DióRádió FM 106.9 	Eger 	
+107	0,275	Kék Duna Rádió Győr 	Tatabánya	Kő-hegy 
+107	0,8	Rádió 7 Kistelek 	Kistelek 	
+107	0,5	Lakihegy Rádió 	Szigetszentmiklós 	
+107,2	70,8	Neo FM 	Kab-hegy 	
+107,3	34,7	MR3-Bartók Rádió 	Szentes 	
+107,3	0,01	Cool FM 	Budapest	Gyáli út 
+107,3	0,005	Tavirózsa Rádió 	Veresegyház 	
+107,4	0,5	  	Szombathely 	
+107,4	0,31	  	Nyíregyháza 	
+107,4	0,001	Gorba Rádió 	Tardos 	
+107,5	1,4	MR3-Bartók Rádió 	Miskolc	Avas 
+107,5	1	Alisca Rádió 	Paks 	
+107,6	10	MR3-Bartók Rádió 	Pécs	Misina-tető 
+107,8	83,2	MR1-Kossuth Rádió 	Budapest	Széchenyi-hegy 
+107,9	6,9	MR3-Bartók Rádió 	Sopron	Dalos-hegy

@@ -1,0 +1,104 @@
+ev	szemely	szulhely
+1957	Albert Camus	11
+1970	Alekszandr Iszajevics Szolzsenyicin	30
+1921	Anatole France	11
+1947	André Gide	11
+1950	Bertrand Russell	26
+1903	Björnstjerne Björnson	29
+1958	Borisz Paszternak	30
+1989	Camilo José Cela	33
+1919	Carl Spitteler	34
+1985	Claude Simon	11
+1980	Czeslaw Milosz	23
+1997	Dario Fo	30
+1992	Derek Walcott	32
+2004	Elfriede Jelinek	2
+1981	Elias Canetti	26
+1931	Erik Axel Karlfeldt	35
+1954	Ernest Hemingway	8
+1936	Eugene O'Neill	8
+1975	Eugenio Montale	30
+1974	Eyvind Johnson	35
+1952	Francois Mauriac	11
+1939	Frans Eemil Sillanpää	10
+1904	Frédéric Mistral	11
+1982	Gabriel García Márquez	22
+1945	Gabriela Mistral	4
+1925	George Bernard Shaw	15
+1912	Gerhart Hauptmann	27
+1906	Giosue Carducci	30
+1926	Grazia Deledda	30
+1999	Günter Grass	27
+1955	Halldór Laxness	16
+2005	Harold Pinter	26
+1974	Harry Martinson	35
+1972	Heinrich Böll	27
+1927	Henri Bergson	11
+1917	Henrik Pontoppidan	6
+1905	Henryk Sienkiewicz	23
+1946	Hermann Hesse	27
+1978	Isaac Bashevis Singer	8
+1933	Ivan Alekszejevics Bunyin	30
+1961	Ivo Andric	19
+1922	Jacinto Benavente	33
+1984	Jaroslav Seifert	5
+1964	Jean-Paul Sartre	11
+1944	Johannes Vilhelm Jensen	6
+1932	John Galsworthy	26
+2003	John Maxwell Coetzee	7
+1962	John Steinbeck	8
+1963	Jorgosz Szeferisz	12
+1904	José Echegaray y Eizaguirre	33
+1998	José Saramago	31
+1987	Joszif Alekszandrovics Brodszkij	30
+1956	Juan Ramón Jiménez	33
+2000	Kao Hszing-csien	21
+1917	Karl Adolph Gjellerup	6
+1968	Kavabata Jaszunari	18
+2002	Kertész Imre	24
+1920	Knut Hamsun	29
+1934	Luigi Pirandello	30
+1911	Maurice Maeterlinck gróf	3
+1967	Miguel Ángel Asturias	13
+1965	Mihail Solohov	30
+1991	Nadine Gordimer	7
+1988	Nagíb Mahfúz	9
+1966	Nelly Sachs	27
+1990	Octavio Paz	25
+1979	Odisszeasz Elitisz	12
+1994	Óe Kendzaburó	18
+2006	Orhan Pamuk	36
+1971	Pablo Neruda	4
+1951	Pär Lagerkvist	35
+1973	Patrick White	1
+1910	Paul Heyse	27
+1938	Pearl S. Buck	8
+1913	Rabindranath Tagore	14
+1937	Roger Martin du Gard	11
+1915	Romain Rolland	11
+1908	Rudolf Eucken	27
+1907	Rudyard Kipling	26
+1960	Saint-John Perse	11
+1959	Salvatore Quasimodo	30
+1969	Samuel Beckett	15
+1976	Saul Bellow	20
+1995	Seamus Heaney	15
+1909	Selma Lagerlöf	35
+1928	Sigrid Undset	29
+1930	Sinclair Lewis	8
+1953	Sir Winston Churchill	26
+1966	Sömuel Joszéf Agnon	17
+1901	Sully Prudhomme	11
+1902	Theodor Mommsen	27
+1929	Thomas Mann	27
+1948	Thomas Stearns Eliot	26
+1993	Toni Morrison	8
+1916	Verner von Heidenstam	35
+1977	Vicente Aleixandre	33
+2001	Vidiadhar Surajprasad Naipaul	37
+1923	William Butler Yeats	15
+1949	William Faulkner	8
+1983	William Golding	26
+1996	Wislawa Szymborska	23
+1924	Wladyslaw Reymont	23
+1986	Wole Soyinka	28

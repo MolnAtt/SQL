@@ -1,0 +1,81 @@
+fkod	nev	szul	meghal
+40	Kühne Ede	1839	1903
+14	Déri Miksa	1854	1938
+16	Fejes Jenõ	1877	1952
+56	Reich Ernõ	1887	1965
+10	Bródy Imre	1891	1944
+3	Bay Zoltán	1900	1992
+72	Teller Ede	1908	2003
+6	Bárczy Pál	1941	
+5	Bánki Donát	1859	1922
+33	Just Sándor	1874	1937
+52	Pogány Béla	1887	1943
+21	Gáspár Béla	1898	1973
+68	Szilárd Leó	1898	1964
+79	Bíró László	1899	1985
+20	Gábor Dénes	1900	1979
+75	Vecsei Géza	1902	1960
+77	Wigner Jenõ	1902	1995
+22	Gerõ Loránd	1910	1945
+24	Greguss Pál	1921	2003
+58	Roska Tamás	1940	
+19	Ganz Ábrahám	1814	1867
+13	Csonka János	1852	1939
+53	Pollák Antal	1865	1943
+35	Kandó Kálmán	1869	1931
+76	Virág József	1870	1901
+36	Kármán Tódor	1881	1963
+46	Mihály Dénes	1894	1953
+71	Telkes Mária	1900	1995
+45	Mondl Ferenc	1902	1964
+59	Schmid Rezsõ	1904	1943
+17	Forgó László	1907	1980
+41	Kürti Miklós	1908	1999
+66	Szabó István	1910	1997
+11	Budó Ágoston	1914	1969
+65	Szabó István	1941	
+70	Szõcs István	1943	
+42	Landy Kornél	1948	
+2	Balogh Tibor	1956	
+63	Somogyi Adolf	1846	1919
+7	Bermann Miksa	1861	1925
+38	Kerpely Antal	1866	1917
+27	Hankóczy Jenö	1879	1939
+62	Sklenár János	1884	1954
+12	Buzágh Aladár	1895	1962
+8	Békésy György	1899	1972
+4	Bánhidi Antal	1902	1994
+15	Dulovits Jenõ	1903	1972
+48	Neumann János	1903	1957
+34	Kalmár László	1905	1976
+30	Heller László	1907	1980
+67	Sziklay Péter	1958	
+28	Hegedûs Ramón	1982	
+51	Petzval József	1807	1891
+55	Puskás Tivadar	1844	1893
+18	Frommer Rudolf	1868	1936
+26	Hanaman Ferenc	1878	1941
+47	Mihályi József	1889	1978
+69	Szilvay Kornél	1890	1957
+73	Tihanyi Kálmán	1897	1947
+54	Pulvári Károly	1907	1999
+61	Simonyi Károly	1916	2001
+74	Tófalvi Gyula 	1927	2003
+50	Pavlics Ferenc	1928	
+44	Mechwart András	1834	1907
+57	Riszdorfer Ödön	1893	1944
+64	Svachulay Sándor	1875	1954
+43	Maderspach Károly	1791	1849
+32	Jendrassik György	1898	1954
+29	Hell József Károly	1713	1789
+31	Jedlik Ányos István	1800	1895
+78	Zipernowsky Károly	1853	1942
+9	Bláthy Ottó Titusz	1860	1939
+49	Okolicsányi Ferenc	1894	1954
+1	Ajtay Zoltán Endre	1900	1983
+60	Segner János András	1704	1777
+25	Haggenmacher Károly	1835	1921
+37	Kemény János György	1926	1992
+80	Szent-Györgyi Albert	1893	1986
+23	Goldmark Péter Károly	1906	1977
+39	Köszeghi-Mártony Károly	1783	1848

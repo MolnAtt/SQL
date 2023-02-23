@@ -1,0 +1,298 @@
+﻿id;szerepnev;muid;hang
+8;Igor Herceg;19;bariton
+9;Jaroszlavna;19;szoprán
+10;Vlagyimir;19;tenor
+11;Galackij herceg;19;basszus
+12;Koncsak;19;basszus
+13;Koncsakovna;19;alt
+14;Ovlur;19;tenor
+15;Szkula;19;basszus
+16;Jeroska;19;tenor
+17;Jaroszlavna Dajkája;19;mezzoszoprán
+18;A Kékszakállú Herceg;4;basszus
+19;Judit;4;mezzoszoprán
+20;Ottokár;1;bariton
+21;Kunó;1;basszus
+22;Agáta;1;szoprán
+23;Annuska;1;szoprán
+24;Gáspár;1;basszus
+25;Max;1;tenor
+26;Remete;1;basszus
+27;Kilián;1;bariton
+28;Faust;14;tenor
+29;Mefisztó;14;basszus
+30;Valentin;14;bariton
+31;Margit;14;szoprán
+32;Siebel;14;szoprán
+33;Wagner;14;bariton
+34;Márta;14;mezzoszoprán
+35;Endre (II.);10;bariton
+36;Gertrúd Királyné;10;mezzoszoprán
+37;Ottó;10;tenor
+38;Bánk Bán;10;tenor
+39;Melinda;10;szoprán
+40;Petúr Bán;10;bariton
+41;Tiborc;10;bariton
+42;Biberach;10;basszus
+43;egy királyi tiszt;10;tenor
+44;zászlós;10;bariton
+45;István;20;bariton
+46;Gizella;20;mezzoszoprán
+47;Imre;20;tenor
+48;Péter;20;bariton
+49;Vazul;20;bariton
+50;Sebos;20;tenor
+51;Crescimira;20;szoprán
+52;Jóva;20;alt
+53;Zolna;20;szoprán
+54;Csanád;20;bariton
+55;László (V.);18;tenor
+56;Cillei Ulrik;18;bariton
+57;Szilágyi Erzsébet;18;szoprán
+58;László;18;tenor
+59;Mátyás;18;szoprán
+60;Gara Miklós;18;bariton
+61;Mária;18;szoprán
+62;Szilágyi Mihály;18;basszus
+63;Rozgonyi;18;bariton
+64;Hadnagy;18;tenor
+65;egy nemes;18;tenor
+66;Lady Harriet Durham;24;szoprán
+67;Nancy;24;alt
+68;Lord Tristan Mickleford;24;basszus
+69;Lyonel;24;tenor
+70;Plumkett;24;bariton
+71;Lord Ashton;22;bariton
+72;Lucia;22;szoprán
+73;Sir Edgar Ravenswood;22;tenor
+74;Lord Artur Buklaw;22;tenor
+75;Raymond Bidebent;22;basszus
+76;Alisa;22;mezzoszoprán
+77;Norman;22;tenor
+78;Leila;2;szoprán
+79;Nadír;2;tenor
+80;Zurga;2;bariton
+81;Nurabad;2;basszus
+82;Pillangókiasszony;26;szoprán
+83;Szuzuki;26;mezzoszoprán
+84;Kate Pinkerton;26;mezzoszoprán
+85;Pinkerton;26;tenor
+86;Sharpless;26;bariton
+87;Goro;26;tenor
+88;Yamadori Herceg;26;tenor
+89;Bonzo;26;basszus
+90;a császári biztos;26;bariton
+91;tiszt;26;bariton
+92;Cso-Cso-Szán anyja;26;szoprán
+93;Rodolphe;11;tenor
+94;Schaunard;11;bariton
+95;Marcel;11;bariton
+96;Colline;11;basszus
+97;Musette;11;szoprán
+98;Mimi;11;szoprán
+99;Alcindor;11;basszus
+100;Benoit;11;basszus
+101;Parpignol;11;tenor
+102;fináncőrmester;11;basszus
+103;Mario Cavaradossi;30;tenor
+104;Báró Scarpia;30;bariton
+105;Cesare Angelotti;30;basszus
+106;sekrestyés;30;bariton
+107;Spoletta;30;tenor
+108;Sciarrone;30;basszus
+109;Börtönor;30;basszus
+111;Almaviva Gróf;6;tenor
+112;Bartolo;6;bariton
+113;Rosina;6;szoprán
+114;Figaro;6;bariton
+115;Basilio;6;basszus
+116;Berta;6;mezzoszoprán
+117;Fiorello;6;bariton
+118;tiszt;6;basszus
+119;Tell Vilmos;29;bariton
+120;Gemmy;29;mezzoszoprán
+121;Hedvig;29;alt
+122;Arnold;29;tenor
+123;Melchthal;29;basszus
+124;Fürst Walter;29;basszus
+125;Gessler;29;basszus
+126;Matild;29;szoprán
+127;Rudolf;29;tenor
+128;Leuthold;29;basszus
+129;egy halász;29;tenor
+130;Károly (V.) császár;12;bariton
+131;Fülöp (II.) spanyol király;12;basszus
+132;Valois Erzsébet;12;szoprán
+133;Don Carlos spanyol infáns;12;tenor
+134;Aremberg grófné;12;mezzoszoprán
+135;Posa márki;12;tenor
+136;Lerma gróf;12;bariton
+137;Tebaldo;12;szoprán
+138;főinkvizitor;12;basszus
+139;egy udvarhölgy;12;szoprán
+140;mennyei hang;12;szoprán
+141;Salamon király;27;bariton
+142;főpap;27;basszus
+143;Szulamit;27;szoprán
+144;Asszád;27;tenor
+145;Baal-Hanan;27;bariton
+146;Sába királynője;27;mezzoszoprán
+147;Asztarót;27;szoprán
+148;templomőr;27;basszus
+149;Ségur gróf;9;basszus
+150;Jeanne;9;alt
+151;Éva;9;szoprán
+152;Planta;9;bariton
+153;Sombreuil;9;basszus
+154;Chassis Raoul tengerésztiszt;9;tenor
+155;D'Indres tábornok;9;basszus
+156;Monsigny admirális;9;bariton
+157;Trémoville;9;tenor
+158;Rivoire tisztek;9;tenor
+159;Floch;9;bariton
+160;Placard;9;bariton
+161;Foucauld törzsorvos;9;basszus
+162;Muezzin;9;tenor
+163;fiatal halász;9;tenor
+164;Olympia;16;szoprán
+165;Giulietta;16;szoprán
+166;Antonia;16;szoprán
+167;Miklós;16;mezzoszoprán
+168;Antonia anyjának hangja;16;mezzoszoprán
+169;Hoffmann;16;tenor
+170;Spalanzani;16;tenor
+171;Nathanael;16;tenor
+172;Crespel;16;basszus
+173;Luther;16;basszus
+174;Andrés;16;tenor
+175;Cochenille;16;tenor
+176;Pittichinaccio;16;tenor
+177;Ferenc;16;tenor
+178;Lindorf;16;basszus
+179;Coppélius;16;basszus
+180;Dappertutto;16;basszus
+181;Miracle;16;basszus
+182;Hermann;16;bariton
+183;Schlemil;16;bariton
+184;Nilakanta;21;bariton
+185;Lakmé;21;szoprán
+186;Mallika, szolga;21;mezzoszoprán
+187;Hadzsi, szolga;21;tenor
+188;Gerald angol tiszt;21;tenor
+189;Frederic angol tiszt;21;bariton
+190;Miss Ellen;21;szoprán
+191;Miss Rose;21;mezzoszoprán
+192;Mrs. Bentson;21;alt
+193;Don Fernando;15;bariton
+194;Don Pizarro;15;bariton
+195;Florestan;15;tenor
+196;Leonora;15;szoprán
+197;Rocco;15;basszus
+198;Marcellina;15;szoprán
+199;Jaquino;15;tenor
+200;első fogoly;15;tenor
+201;második fogoly;15;basszus
+202;Hovanszkij Iván herceg;17;bariton
+203;Hovanszkij Andrej herceg;17;tenor
+204;Golicin Vaszilij herceg;17;tenor
+205;Saklovitij;17;bariton
+206;Doszifej;17;basszus
+207;Marfa;17;mezzoszoprán
+208;Emma;17;szoprán
+209;egy írnok;17;tenor
+210;Varszonovjev;17;basszus
+211;Kuzka;17;bariton
+212;első sztrelic;17;basszus
+213;második sztrelic;17;basszus
+214;Santuzza;25;szoprán
+215;Turiddu;25;tenor
+216;Lucia;25;alt
+217;Alfio;25;bariton
+218;Lola;25;mezzoszoprán
+219;Heródes Antipas;28;tenor
+220;Heródiás;28;mezzoszoprán
+221;Salome;28;szoprán
+222;Jochanaan;28;bariton
+223;Narraboth;28;tenor
+224;Heródiás apródja;28;alt
+225;két nazarénus;28;tenor
+226;két katona;28;basszus
+227;egy kappadóciai;28;basszus
+228;egy rabszolga;28;mezzoszoprán
+229;Hans Sachs;5;bariton
+230;Veit Pogner;5;basszus
+231;Kunz Vogelgesang;5;tenor
+232;Konrad Nachtigall;5;basszus
+233;városi írnok;5;bariton
+234;Fritz Kothner;5;basszus
+235;Balthasar Zorn;5;tenor
+236;Ulrich Eisslinger;5;tenor
+237;Augustin Moser;5;tenor
+238;Hermann Ortel;5;basszus
+239;Hans Schwarz;5;basszus
+240;Hans Foltz;5;basszus
+241;fiatal Frank lovag;5;tenor
+242;Dávid;5;tenor
+243;Éva;5;szoprán
+244;Magdalena;5;mezzoszoprán
+245;éjjeli őr;5;basszus
+246;Siegmund;8;tenor
+247;Hunding;8;basszus
+248;Wotan;8;basszus
+249;Sieglinde;8;szoprán
+250;Brünnhilde;8;szoprán
+251;Fricka;8;mezzoszoprán
+252;Madarász Henrik;23;basszus
+253;Lohengrin;23;tenor
+254;Brabanti Elza;23;szoprán
+255;Friedrich Von Telramund;23;bariton
+256;Ortrud;23;szoprán
+257;a király hirdetője;23;bariton
+258;Treff király;3;basszus
+259;a herceg;3;tenor
+260;Clarice hercegnő;3;alt
+261;Leander kancellár (Pikk király);3;bariton
+262;Truffaldino;3;tenor
+263;Pantalon;3;bariton
+264;Celio varázsló;3;basszus
+265;Fata Morgana varázslónő;3;szoprán
+266;Linetta;3;alt
+267;Nicoletta;3;mezzoszoprán
+268;Ninetta;3;szoprán
+269;a szakácsnő;3;basszus
+270;Farfarello;3;basszus
+271;Smeraldine;3;mezzoszoprán
+272;ceremóniamester;3;tenor
+273;hírnök;3;basszus
+274;Sarastro;7;basszus
+275;Tamino;7;tenor
+276;öreg pap;7;basszus
+277;második pap;7;tenor
+278;az éj királynője;7;szoprán
+279;Pamina;7;szoprán
+280;első hölgy;7;szoprán
+281;második hölgy;7;mezzoszoprán
+282;harmadik hölgy;7;alt
+283;Papageno;7;basszus
+284;Papagena;7;szoprán
+285;Monostatos;7;tenor
+286;első fiú;7;szoprán
+287;második fiú;7;mezzoszoprán
+288;harmadik fiú;7;alt
+289;első őrtálló;7;tenor
+290;második őrtálló;7;basszus
+291;Don Juan;13;bariton
+292;a kormányzó;13;basszus
+293;Donna Anna;13;szoprán
+294;Don Ottavio;13;tenor
+295;Donna Elvira;13;mezzoszoprán
+296;Leporello;13;basszus
+297;Masetto;13;basszus
+298;Zerlina;13;szoprán
+299;Don José;31;tenor
+300;Escamillo;31;bariton
+301;Carmen;31;mezzoszoprán
+302;Zuniga;31;basszus
+303;Morales;31;bariton
+304;Mercedes;31;mezzoszoprán
+305;Andrés;31;tenor

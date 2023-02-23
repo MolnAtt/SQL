@@ -1,0 +1,396 @@
+id	eloado	cim
+1	50 Cent	Curtis
+2	A Társulat	A legjobb dalok
+3	A Társulat	Sztárkarácsony a Társulattal
+4	Abba	Gold - Greatest Hits
+5	AC/DC	Black Ice
+6	AC/DC	Iron Man 2
+7	Adagio	Érintés
+8	Adagio	Gold
+9	Adagio	Hollywood
+10	Adam Lambert	For Your Entertainment
+11	Adele	21
+12	Ákos	40+
+13	Ákos	A katona imája
+14	Ákos	Arénakoncert 2011
+15	Ákos	Még közelebb
+16	Ákos	Test / Indiántánc
+17	Alma - Bartos Erika	Balaton
+18	Alma & Bródy	Játsszunk együtt!
+19	Amy Winehouse	Back To Black
+20	Amy Winehouse	Lioness Hidden Treasures
+21	Andrea Bocelli	Concerto One Night In Central Park
+22	Andrea Bocelli	Incanto
+23	Andrea Bocelli	My Christmas
+24	Andrea Bocelli	My Christmas / My Christmas 2010
+25	Andrea Bocelli	Vivere - Greatest Hits
+26	Andrewboy	Dirty Dance 2
+27	Anti Fitness Club	Anti Fitness Club
+28	Avril Lavigne	Goodbye Lullaby
+29	Avril Lavigne	The Best Damn Thing
+30	B. Tóth László	Retro-Poptarisznya
+31	Balázs Fecó	60 - Csak az évek múltak el...
+32	Balázs Fecó	Érints meg még egyszer
+33	Barbra Streisand	Love Is The Answer
+34	Barbra Streisand	The Ultimate Collection
+35	Barbra Streisand	What Matters Most - Barbra Streisand Sings The Lyrics Of Alan & Marilyn Bergman
+36	Baricz Gergő	Az első X - Az élő show-k 10 legnagyobb kedvence
+37	Belga	Zigilemez
+38	Bereczki Zoltán	Álomkép
+39	Bereczki Zoltán - Szinetár Dóra	Duett Karácsony
+40	Bereczki Zoltán - Szinetár Dóra	Musical Duett
+41	Bereczki Zoltán - Szinetár Dóra	Musical Duett 2.
+42	Bereczki Zoltán - Szinetár Dóra	Musical Duett Box
+43	Bereczki Zoltán - Szinetár Dóra	Musical Duett Koncert
+44	Beyoncé	4
+45	Beyoncé	I Am... Sasha Fierce
+46	Bikini	Elmúlt illúziók
+47	Bikini	Őrzöm a lángot
+48	Bikini	The Very Best Of
+49	Bódi Guszti és a Fekete Szemek	Forr a vérem
+50	Bon Jovi	Greatest Hits
+51	Bon Jovi	Lost Highway
+52	Bonanza Banzai	Jóslat / Búcsúkoncert
+53	Britney Spears	Femme Fatale
+54	Bródy János	Az Illés szekerén
+55	Budapest Bár	Volume 1
+56	Budapest Bár	Volume 2 - Tánc
+57	Budapest Bár	Volume 3 - Zene
+58	Budapest Bár	Volume 4 - Hoppá!
+59	Caramel	Lélekdonor
+60	Celine Dion	My Love Essential Collection
+61	Coldplay	Mylo Xyloto
+62	Coldplay	Viva La Vida
+63	Crystal	Gregorian
+64	Crystal	Világok hangjai
+65	Csézy	Szívverés
+66	Csicsi	Pimpinkin
+67	Csík Zenekar	Ez a vonat, ha elindult, hadd menjen...
+68	Csík Zenekar	Lélekképek
+69	Csík Zenekar	Szívest örömEst - Óévbúcsúztató koncert 2009
+70	Csináljuk a fesztivált	Csináljuk a fesztivált 3.
+71	Csináljuk a fesztivált	Csináljuk a fesztivált!
+72	David Guetta	Nothing But The Beat
+73	David Guetta	One Love / One More Love
+74	Deák Bill Gyula	A király meséi
+75	Deák Bill Gyula	Hatvan csapás
+76	Demjén Ferenc	A lelkünk most is vágtat
+77	Demjén Ferenc	Így fogadj el igazán
+78	Depeche Mode	Sounds Of The Universe
+79	Depeche Mode	The Best Of Vol. 1.
+80	Depresszió	Vízválasztó
+81	Dés-Bereményi-Básti-Cserhalmi-Kulka-Udvaros	Férfi és Nő
+82	Desperado	Táncolj!
+83	Diana Krall	Quiet Nights
+84	Diana Krall	The Very Best Of
+85	Dido	Safe Trip Home
+86	DJ Dominique	Best Of Hungarissimo
+87	DJ Dominique	Megamix 2011
+88	Dobrády Ákos	Közelebb egymáshoz
+89	Dolhai Attila	Egy szerelem története
+90	Dolhai Attila	Olasz szerelem
+91	Duffy	Rockferry
+92	Edda	Átok és áldás
+93	Enya	And Winter Came
+94	Enya	The Very Best Of
+95	Eros Ramazzotti	Ali E Radici / Alas Y Raices
+96	Eros Ramazzotti	E2
+97	Feke Pál	A döntők legszebb dalai
+98	Feke Pál	Új világ vár!
+99	Fekete Dávid	Kell, hogy itt legyél
+100	Fenyő Miklós	Kell egy álom
+101	Fiesta	Lehet, hogy álom
+102	Filmzene	Hannah Montana
+103	Filmzene	Hannah Montana - The Movie
+104	Filmzene	Hannah Montana 3
+105	Filmzene	Made In Hungária
+106	Filmzene	Mamma Mia!
+107	Filmzene	Sex And The City
+108	Filmzene	Valami Amerika 2.
+109	Fivérek	Luxus tangó
+110	Gáspár Laci	És mégis forog a Föld
+111	George Michael	Twenty Five
+112	Ghymes	Álombálom
+113	Ghymes	Mendika
+114	Ghymes	Szikraszemű
+115	Gringo Sztár	Pálinka Sunrise
+116	Groovehouse	Hosszú az út
+117	Guns N' Roses	Chinese Democracy
+118	Gyerekkarácsony	Gyerekkarácsony
+119	Gyereklemez	Gyerekkarácsony Aranyalbum
+120	Gyereklemez	Magyarország kedvenc gyerekdalai
+121	Gyereklemez	Magyarország kedvenc gyerekdalai - Ráadás
+122	Gyereklemez	Magyarország legkedveltebb karácsonyi gyerekdalai
+123	Halász Judit	Apa figyelj rám
+124	Halász Judit	Csiribiri
+125	Halász Judit	Micimackó és a többiek
+126	Halász Judit	Szeresd a testvéred!
+127	Hobo	Circus Hungaricus
+128	Hobo Blues Band	Halj meg és nagy leszel!
+129	Holdviola	Madárka
+130	Holdviola	Vándorfecske
+131	Homonnay Zsolt és Polyák Lilla	Ketten
+132	Hooligans	Best Of 1996-2011
+133	Hooligans	Bohémélet
+134	Hooligans	Privát mennyország
+135	Horgas Eszter	Karácsony angyala
+136	Horgas Eszter	Ő és Carmen
+137	Hungarica	Nincs más Föld, nincs más Ég
+138	Irigy Hónaljmirigy	K.O. Média
+139	Iron Maiden	The Final Frontier
+140	Ismerős Arcok	Éberálom
+141	Ismerős Arcok	Lélekvesztő
+142	István, a király	25. éves Jubileumi album a Társulat előadásában
+143	Janicsák Veca	A második X - 10 új felvétel
+144	Janicsák Veca	Az első X - 10 dal az élő showból
+145	Janicsák Veca	Veca világa
+146	Jean Michel Jarre	Oxygen - 30th Anniversary
+148	Jennifer Lopez	Como Ama Una Mujer
+149	Jolly	Kislány ne légy szomorú
+150	Josh és Jutta	Szabadon
+151	Justin Timberlake	Futuresex/Lovesounds
+152	Kárpátia	Idők szava
+153	Kárpátia	Szebb jövőt
+154	Karthago	Időtörés
+155	Kasza Tibor	Ha egy férfi igazán szeret
+156	Kaszás Attila	Kit ringat a bölcső, Janikát.
+157	Katy Perry	Teenage Dream
+158	Keresztes Ildikó	Csak játszom
+159	Keresztes Ildikó	Minden ami szép volt
+160	Kern András	Semmi baj...
+161	Király L. Norbert	A második X - 10 új felvétel
+162	Király L. Norbert	Az első X - 10 dal az élő showból
+163	Kiscsillag	Néniket a bácsiknak
+164	Kiscsillag	Örökre szívembe zártalak
+165	Kiskalász Zenekar - Bartos Erika	Százlábú
+166	Kiskalász Zenekar - Bartos Erika	Zsákbamacska
+167	Kispál és a Borz	20 év
+168	Kispál és a Borz	Napozz Holddal - Búcsúkoncert
+169	Kistehén Tánczenekar	Szerelmes vagyok minden nőbe
+170	Kocsis Tibor	Az első X - Az élő show-k 10 legnagyobb kedvence
+171	Koncz Zsuzsa	37
+172	Kormorán	Best of
+173	Kowalsky meg a Vega	Az évtized lemeze
+174	Kökény Attila	Nincs semmi másom
+175	Kulka János	Akarod vagy nem
+176	L.L. Junior	Fehér holló
+177	Lady Gaga	Born This Way
+178	Lady Gaga	The Fame / The Fame Monster
+179	Leona Lewis	Spirit
+180	Leonard Cohen	Greatest Hits
+181	Leonard Cohen	Live In London
+182	Leonard Cohen	Songs From The Road
+183	Lilly Baba	A világ körül
+184	Lilly Baba	Az én albumom
+185	Linkin Park	Minutes To Midnight
+186	Lola	Élj a mának!
+187	Lord	Örökké
+188	Lord	Szóljon a Lord - Best Of
+189	Luciano Pavarotti	Pavarotti Forever
+190	Luciano Pavarotti	The Duets
+191	Madonna	Celebration
+192	Madonna	Hard Candy
+193	Madonna	The Confessions Tour
+194	Mága Zoltán	A királyok hegedűse
+195	Mága Zoltán	Budapesti újévi koncert 2011
+196	Magna Cum Laude	999
+197	Magna Cum Laude	Belső égés
+198	Magna Cum Laude	Csak ülünk és zenélünk
+199	Magna Cum Laude	Jubileum
+200	Magna Cum Laude	Magnatofon
+201	Magna Cum Laude	Minden állomás
+202	Magyarország kedvenc gyermekmeséi	Magyar népmesék
+203	Mahó Andrea	Más lesz a holnap
+204	Manu Chao	La Radiolina
+205	Mariah Carey	Merry Christmas II You
+206	Márió	Best of
+207	Máté Péter emlékalbum	Egy darabot a szívemből
+208	Megasztár	A legenda folytatódik
+209	Megasztár	Megasztár Karácsony 2008
+210	Megasztár	Top 5
+211	Mészáros Árpád Zsolt	Musicalek Mázs-képpen
+212	Metallica	Death Magnetic
+213	Michael Bublé	Call Me Irresponsible
+214	Michael Bublé	Christmas
+215	Michael Jackson	Bad
+216	Michael Jackson	Essential Michael Jackson
+217	Michael Jackson	King Of Pop - Magyarország kedvenc dalai
+218	Michael Jackson	Michael
+219	Michael Jackson	This Is It
+220	Michael Jackson	Thriller - 25th Anniversary Edition
+221	Miley Cyrus	Breakout
+222	Miley Cyrus	Can`t Be Tamed
+223	Miley Cyrus	The Time Of Our Lives
+224	Miller Zoltán	Fehér és fekete
+225	Mini Hitmix	Mini hitmix
+226	MR2-Petőfi Rádió	Egy kis hazai
+227	MR2-Petőfi Rádió	Egy kis hazai 2.
+228	MR2-Petőfi Rádió	Egy kis hazai 3.
+229	MR2-Petőfi Rádió	Egy kis hazai 4.
+230	Muri Enikő	Az első X - Az élő show-k 10 legnagyobb kedvence
+231	Musical	High School Musical
+232	Musical	High School Musical - Hits Collection
+233	Musical	High School Musical 2.
+234	Musical	High School Musical 3.
+235	Musical	Rebecca - A Manderley-ház asszonya
+236	Musical	Szép nyári nap
+237	Musical Legendák	Gyere, álmodj!
+238	Nagy Sándor	Szavak
+239	Nelly Furtado	Loose
+240	Nightwish	Dark Passion Play
+241	No Thanx	Egy másik nemzedék
+242	Norah Jones	Not Too Late
+243	Norah Jones	The Fall
+244	Nótár Mary	Cigánylány
+245	Nox	Best of 2002-2009
+246	Nox	Csendes
+247	Nox	Időntúl
+248	Nox	Most!
+249	Nox	Örömvölgy
+250	Ocho Macho	El Mundo Fantastico
+251	Ocho Macho	Online a világ
+252	Oláh Ibolya	El merem mondani
+253	Omega	Omega Rhapsody
+254	Ossian	Az lesz a győztes
+255	Ossian	Egyszer az életben
+256	Ossian	Örök tűz
+257	P!Nk	Greatest Hits...So Far!!!
+258	Palya Bea	Adieu les complexes
+259	Palya Bea	Egyszálének
+260	Palya Bea	Én leszek a játékszered
+261	Palya Bea	Ribizliálom
+262	Péterfy Bori & Love Band	2B
+263	Péterfy Bori & Love Band	Péterfy Bori & Love Band
+264	Péterfy Bori & Love Band	Péterfy Bori & Love Band 2
+265	Pink	Funhouse
+266	Pinokkió	Mágikus Pinokkió
+267	Piramis	Koncert 2006 Sportaréna
+268	Pitbull	Planet Pit
+269	Polyák Lilla és Homonnay Zsolt	Két szív
+270	Presser Gábor	1 óra az 1 koncert-ből
+271	Princess	Best of Princess
+272	Princess	Mediterrán
+273	Queen	Absolute Greatest
+274	Quimby	Instant szeánsz
+275	Quimby	Kicsi ország
+276	Quimby	Kilégzés
+277	Quimby	Lármagyűjtögető
+278	Rammstein	Liebe Ist Für Alle Da
+279	Red Hot Chili Peppers	I`m With You
+280	Red Hot Chili Peppers	Stadium Arcadium
+281	Republic	20 éves ünnepi koncert
+282	Republic	Aranyalbum 2. - 2000-2010
+283	Republic	Fényes utakon
+284	Republic	Köztársaság
+285	Republic	Miért, maga bohóc?
+286	Republic	Tiszta udvar, rendes ház
+287	Rihanna	Good Girl Gone Bad
+288	Rihanna	Loud
+289	Rihanna	Talk That Talk
+290	Road	Emberteremtő
+291	Robbie Williams	In And Out Of Consciousness Greatest Hits 1990-2010
+292	Robbie Williams	Reality Killed The Video Star
+293	Rod Stewart	Fly Me To The Moon...The Great American Songbook Volume V
+294	Rod Stewart	Soulbook
+295	Rosszcsontok	Rosszcsontok
+296	Rúzsa Magdi	Iránytű
+297	Rúzsa Magdi	Magdaléna Rúzsa
+298	Rúzsa Magdi	Ördögi angyal
+299	Rúzsa Magdi	T-Mobile Kapcsolat Koncert
+300	Rúzsa Magdi	A döntőkben elhangzott dalok
+301	Sade	Soldier of Love
+302	Sade	The Ultimate Collection
+303	Santana	Guitar Heaven The Greatest Guitar Classics Of All Time
+304	Santana	Ultimate Santana
+305	Seal	Soul
+306	Shakira	Sale El Sol / The Sun Comes Out
+307	Snufi	Szívemből szól
+308	Sp	Kölyök 22
+309	St. Martin	Föld szélén, középen
+310	Sting	If On A Winter`s Night
+311	Sting	Symphonicities
+312	Sting	The Best Of 25 Years
+313	Susan Boyle	I Dreamed A Dream
+314	Susan Boyle	The Gift
+315	Szabó Eszter	Colorpop
+316	Szekeres Adrien	A szeretet ünnepén
+317	Szekeres Adrien	Csak játék
+318	Szekeres Adrien	Olyan, mint Te
+319	Szenes Iván	Hosszú az a nap
+320	Szíj Melinda	Foltos úton
+321	Szikora Róbert	Legszebb szerelmes dalai
+322	Szulák Andrea	Boldogság, gyere haza
+323	Tabáni István	Érzés
+324	Tabáni István	Gyönyörű szép
+325	Tabáni István	Ments meg!
+326	Takács Nikolas	A második X - 10 új felvétel
+327	Takács Nikolas	Az első X - 10 dal az élő showból
+328	Tankcsapda	Elektromágnes
+329	Tankcsapda	Minden jót
+330	The Black Eyed Peas	The E.N.D.
+331	Tiesto	Elements Of Life
+332	Tiesto	In Search Of Sunrise 6.
+333	Tokio Hotel	Zimmer 483
+334	Tolvai Renáta	A döntőben elhangzott dalok
+335	Tóth Vera	Zene kell nekem
+336	U2	18 Singles
+337	U2	No Line On The Horizon
+338	Utasi Árpi	Kedvenc meséim
+339	Váczi Eszter Quartet	Vissza hozzád
+340	Válogatás	A legnagyobb magyar slágergyűjtemény
+341	Válogatás	Bravissimo 2007
+342	Válogatás	Csingiling - Karácsonyi Muzsika
+343	Válogatás	Dancissimo 2006
+344	Válogatás	Dancissimo 2007
+345	Válogatás	Dancissimo 2008 hotdog.hu Dancemix
+346	Válogatás	Gyerekkarácsony Bónusz
+347	Válogatás	Gyerekkarácsony Extra
+348	Válogatás	Karácsonyi csillagszórók
+349	Válogatás	Klasszikus kedvencek
+350	Válogatás	MAMA - Dalok édesanyáknak
+351	Válogatás	Mulat az ország
+352	Válogatás	Mulat az ország 2.
+353	Válogatás	Mulatós aranyalbum - best of
+354	Válogatás	Mulatós mánia 2007
+355	Válogatás	Mulatós Mánia 2008
+356	Válogatás	Nagy gyerek lemez
+357	Válogatás	Nagy hazai házibuli folytatódik
+358	Válogatás	Nagy hazai házibuli lemez
+359	Válogatás	Nagy mulatós lemez 2007
+360	Válogatás	Nagy mulatós lemez 2008
+361	Válogatás	Nagy mulatós lemez 2009
+362	Válogatás	Nagy mulatós lemez 2010
+363	Válogatás	Now.hu 11
+364	Válogatás	Now.hu 9.
+365	Válogatás	Óriás mulatós lemez
+366	Válogatás	Party Megamix 2008
+367	Válogatás	Swing! Swing! Swing!
+368	Válogatás	Szenes Iván Nem csak a húszéveseké a világ
+369	Válogatás	Trend 2007 Tavasz
+370	Válogatás	Új Juventus mix
+371	Válogatás	VIVA Megamix 2007
+372	Váradi Roma Café	Espresso
+373	Váradi Roma Café	Ez van
+374	Váradi Roma Café	Isten hozott a családban
+375	Varga Feri & Balássy Betty	Ébredni valakiért
+376	Varnus Xavér	Bachtól a Csillagok háborújáig
+377	Varnus Xavér	Classic & Jazz
+378	Varnus Xavér	From Ravel to Vangelis
+379	Vásáry André	Ünnep
+380	Vásáry André	Vásáry André
+381	Vastag Csaba	A második X - 10 új felvétel
+382	Vastag Csaba	Az első X - 10 dal az élő showból
+383	Vastag Tomi	Az első X - 10 dal az élő showból
+384	Whitney Houston	I Look To You
+385	Wolf Kati	Az első X - 10 dal az élő showból
+386	Wolf Kati	Vár a holnap
+387	Yonderboi	Passive Control
+388	Zámbó Jimmy	Királyi duettek
+389	Zeneovi	Jeles napok 1.
+390	Zeneovi	Népdalok kicsiknek
+391	Zeneovi	Téli ünnep
+392	Zeneovi	Zeneovi
+393	Zorán	34 dal
+394	Zorán	Körtánc - Kóló
+395	Zorán	Közös szavakból koncert - Sportaréna 2007
+396	Zséda	Rouge
