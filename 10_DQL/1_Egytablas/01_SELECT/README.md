@@ -85,6 +85,7 @@ A következő függvények például használhatók hasonló módon arra, hogy e
 - Kivonás: ``...-...``
 - Szorzás: ``...*...``
 - Osztás: ``.../...``
+- Inline if: ``IIF(...,...,...)`` *- pont, mint excelben!*
 - Maradékos osztás maradéka: `` ... MOD ...``
 - Maradékos osztás eredménye: `` ... DIV ...``
 - Felső egészrész: ``CEILING(...)``
